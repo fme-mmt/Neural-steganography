@@ -17,3 +17,13 @@ We made the gpt-2 model work and tried some samples-
 We installed markovify packages and we made it work correctly. 
 We tried some samples to see with what kind of samples it works better 
 Given a long enough samples (article, songs etc.) to finally make the program work corectly with no errors, no repeats etc.
+
+Roger, Gerard
+We have downloaded Markovify too. 
+We have started reading only one simple text using the command state_size=2, what means that we only look at the last word to write the next one.
+That gave us mostly non correct sentences. 
+After that we have been trying to use state_size=3, what means that we look at the last two words.
+That would had to give us more correct sentences, but the problem we have had here is that our text was so simple to make any new sentence. 
+Finally, we are trying to download some corpus, principally the wikipedia one from (don't remember the name of the package) but some errors have appeared to us.
+So now we are trying to solve that errors to run the code and see what happens to the sentences we are creating. 
+
