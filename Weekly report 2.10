@@ -10,3 +10,10 @@ After that we have been searching information about PyTorch and how to use it.
 
 Taule
 I have been learning about arithmetic coding and how it works. Next day I'll do a presantation to my teammates about what I learnt.
+
+
+Adrian, Belen, Gosia 9.10 Report
+We made the gpt-2 model work and tried some samples-
+We installed markovify packages and we made it work correctly. 
+We tried some samples to see with what kind of samples it works better 
+Given a long enough samples (article, songs etc.) to finally make the program work corectly with no errors, no repeats etc.
