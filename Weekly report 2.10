@@ -25,5 +25,12 @@ That have given us mostly non correct sentences.
 After that, we have been trying to use state_size=3, what means that we look at the last two words.
 That would have to give us more correct sentences, but the problem we have had here is that our text was so simple to make any new sentence. 
 Finally, we are trying to download some corpus, principally the wikipedia one from Textacy but some errors have appeared to us.
-So now we are trying to solve that errors to run the code and see what happens to the sentences we are creating. 
+So now we are trying to solve that errors to run the code and see what happens to the sentences we are creating.
+
+Everybody
+Create a large corpus.
+
+
+Everybody
+Prepare the presentation
 
