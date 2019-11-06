@@ -34,3 +34,8 @@ Create a large corpus.
 Everybody
 Prepare the presentation
 
+06/11/2019:
+RogerS & Gerard:
+We've been looking at the Markovify implementation and how it generates and choose the next possible words. 
+We have been wondering about how to implement arithmetic coding in Markovify and how the program will encrypt and decrypt the text we want.
+
