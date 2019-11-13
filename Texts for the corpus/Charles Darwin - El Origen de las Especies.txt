@@ -1,0 +1,1638 @@
+Prólogo
+Charles Darwin, el científico naturalista que más contribuyó a la historia de la biología,
+nació en Shrewsbury el 9 de febrero de 1809. Quinto hijo de Robert Darwin, un próspero
+médico rural, y de Susannah Potter, creció en el seno de una sofisticada familia inglesa.
+Luego de finalizar sus estudios en la escuela de Shrewsbury, ingresó en la Universidad de
+Edimburgo para cursar medicina. En 1827 abandonó la carrera y comenzó estudios de
+teología en la Facultad de Estudios Cristianos, en la Universidad de Cambridge, con el fin
+de convertirse en clérigo rural, como lo deseaba su padre. Allí inició una íntima amistad
+con John Stevens Henslow, cura y botánico, que lo llevó consigo en largas expediciones
+para recolectar plantas y lo recomendó al capitán Fitz Roy como tripulante del buque inglés Beagle.
+Ya a fines del siglo XVIII, como en busca de un portavoz, la teoría de la evolución
+rondaba lentamente la atmósfera de los naturalistas. Pero lo que le otorgó a Darwin el
+crédito de descubrir la selección natural fue la publicación, el 24 de noviembre de 1859,
+de El origen de las especies. Esta edición se agotó el día de aparición y, con las subsiguientes, fueron seis publicaciones en total las que se editaron en vida de Darwin.
+El origen de las especies fue el resultado de un exhaustivo y profundo trabajo de observación e investigación que Darwin comenzó desde muy joven, cuando se dedicó a estudiar historia natural y reanudó sus coleccio nes de minerales e insectos, que había comenzado en la escuela. Sin embargo, lo que realmente consagró los años de estudio y reflexión fue su labor como naturalista en la expedición alrededor del mundo, a bordo del
+Beagle. Tal como lo afirma en la autobiografía: "El viaje en el Beagle ha sido el acontecimiento más importante de mi vida y el que determinó toda mi carrera".
+El origen de las especies fue el primer relato convincente y claro acerca de la teoría de
+la evolución y de la selección natural. La obra de Darwin estaba narrada en un lenguaje
+directo y coloquial, accesible a cualquier lector. En ella fue capaz de explicar en forma
+simple que las especies cambiaban como resultado de una necesidad nueva; que la lucha
+por la supervivencia eliminaba las variaciones desfavorables y sobrevivían las más aptas;
+que el número de individuos de cada especie permanecía más o menos constante; y explicó, por medio de descripciones minuciosas, cómo variaban en todos los aspectos las distintas especies según el entorno.
+Una de las principales influencias en su teoría de la selección natural ha sido el clérigo
+y economista británico, Thomas Malthus, con su Ensayo sobre el principio de la población (1798). También se le atribuye gran importancia en la obra de Darwin al naturalista
+Alfred Russel Wallace (18231915), quien en su última expedición a las islas de Malasia
+formuló su hipótesis acerca de la selección natural. En 1858, a pesar de que no se conocían, Wallace le comunicó sus ideas a Darwin, quien ya poseía una teoría similar. Unos
+meses antes de la publicación de El origen de las especies, ambos científicos habían realizado una publicación conjunta de extractos de los manuscritos.
+Darwin narró en su Diario de viaje algunas vivencias que lo llevaron al comienzo de
+una crisis religiosa; llegó a escribir: "...De hecho casi no puedo comprender cómo haya
+nadie que pueda desear que la doctrina cristiana sea cierta". No encontraba compatible la
+esclavitud, sustento de la economía de la burguesía, a la que pertenecía, con la doctrina
+
+cristiana. Varios años después escribió con cierto tono irónico: "Considerando la ferocidad con que he sido tratado por los ortodoxos, parece cómico que alguna vez pensara ser
+clérigo".
+Luego de cinco años de expedición (18311836) redactó, sobre la base de los apuntes
+tomados a bordo, el Diario de viaje.
+En 1842, después de realizar una travesía por el norte de Gales con el fin de observar
+los glaciares, la mala salud de Darwin se acentuó. Siempre había sido hipocondríaco, pero los males comenzaban a hacerse reales. Renunció al cargo de Secretario de la Sociedad
+Geológica y buscó, junto a su prima, Emma Wed gwood -con la que se había casado en
+enero de 1839- un lugar retirado, en los alrededores de Londres. Halló una casa en Down
+House, en las afueras de Seven Oaks, que fue su último hogar. Entonces mantuvo una
+vida apartada de los compromisos sociales y dedicó unas horas por día a ampliar aspectos
+de su teoría. Murió el 19 de abril de 1882 de lo que luego se conoció como Mal de Chagas. Aunque algunos médicos, contrariando a los familiares, sostuvieron que, en realidad,
+la causa de su muerte fue la constante angustia.
+Es autor de: Arrecifes coralinos (1842), Mis diversas publicaciones (1844), Diario de
+viaje (1845), El origen de las especies (1859), Fertilización de las orquídeas (1862), El
+origen del hombre (1871), La expresión de las emociones en el hombre y en los animales
+(1872), Vida de Erasmus Darwin (1879) y, por último, Power of Movement in Plants
+(1880).
+Darwin vaticinó la inmortalidad de su obra y fue, sin duda, quien echó más luz sobre
+las tres áreas principales que cultivó: la geología, la botánica y "el misterio de los misterios", como se llamaba por esos años a los problemas de la evolución y de la selección
+natural.
+Margarita Rodríguez Acero
+
+Introducción
+Viajábamos a bordo del Beagle, buque de guerra inglés, en calidad de naturalistas,
+cuando nos impresionaron mucho ciertos hechos observados en la distribución de los seres orgánicos que habitan América del Sur, y en las relaciones geológicas existentes entre
+los actuales habitantes de aquel continente y sus antecesores. Estos hechos parecían arrojar luz sobre el origen de las especies. De vuelta a nuestra patria en 1837, se nos ocurrió
+que quizás algo podría sacarse en limpio de esta cuestión, acumulando con paciencia, para reflexionar sobre ellos, toda clase de hechos que pudieran tener alguna relación o conexión con el problema. Después de un trabajo de cinco años, nos permitimos especular
+sobre el asunto, y formamos algunas cortas notas que ampliamos en 1844.
+Al considerar el origen de las especies se concibe perfectamente que el naturalista que
+reflexiona sobre las mutuas afinidades de los seres orgánicos, sobre sus relaciones embriológicas, su distribución geográfica y otros hechos semejantes, puede llegar a deducir
+que las especies no han sido creadas independientemente, sino que han descendido como
+variedades de otras especies. A pesar de todo, tal conclusión, aun estando bien fundada,
+no sería satisfactoria hasta poder demostrarse cómo ha n sido modificadas las innumerables especies que habitan este mundo, hasta adquirir esa perfección de estructura y coadaptación que con justicia excita nuestra admiración. Continuamente los naturalistas la
+atribuyen a condiciones externas, clima, alimento, etc., como única causa posible de variación, y aunque en sentido limitado, todavía consideramos absurdo atribuir a meras
+condiciones externas la estructura, por ejemplo, del mué rdago, que toma su alimento de
+ciertos árboles, que posee semillas que necesit an ser transportadas por ciertos pájaros y
+que ofrece flores de sexos separados que requieren absolutamente la acción de ciertos insectos para llevar el polen de una flor a otra. Es igualmente, a nuestro entender, absurdo
+querer explicar la estructura de este parásito y sus relaciones con los varios seres orgánicos distintos, por los efectos de condiciones externas o de hábito, o por voluntad de la
+misma planta.
+Es, por lo tanto, de la mayor importancia llegar a la clara percepción de los medios de
+modificación y coadaptación, por lo cual desde el principio de nuestras observaciones nos
+parecía probable que el cuidadoso estudio de los animales domésticos y de las plantas
+cultivadas ofrecería más probabilidades para aclarar tan oscuro problema.
+Nadie se sorprenderá de lo mucho que todavía queda por explicar con respecto al or igen de las especies y variedades, si se tiene en cuenta nuestra profunda ignorancia acerca
+de muchos de los seres que viven en nuestro derredor. ¿Quién puede explicar por qué una
+especie extiende en todas direcciones sus numerosos individuos, mientras que otra aliada
+a la primera domina en espacio pequeño y apenas se la encuentra? No obstante, son de
+mucha importancia estas relaciones, porque determinan el bienestar actual, y a nuestro
+modo de ver, se dirigen al futuro logro y modificación de cada uno de los habitantes de
+este mundo. Todavía sabemos menos de las mutuas relaciones existentes entre los innumerables habitantes que han existido durante las muchas épocas geológicas que cuenta la
+historia, y aunque hay muchos misterios que durante mucho tiempo permanecerán tales,
+sin embargo, después del estudio más deliberado y del más desapasionado juicio de que
+somos capaces, no dudamos que la opinión hasta ahora sostenida por la mayor parte de
+los naturalistas y antes por nosotros, al afirmar que cada especie ha sido creada indepen-
+
+dientemente, es errónea. Estamos convencidos de que las especies no son inmutables, sino que las pertenecientes a los llamados géneros descienden en línea recta de algunas
+otras especies ya totalmente extinguidas, de análoga manera que las variedades reconocidas de cualquier especie son descendientes de esa especie. Aun más; no dudamos que la
+selección natural ha sido el más importante, sino el exclusivo medio de modificación.
+
+Capítulo I
+La variación en estado doméstico
+CAUSAS DE VARIABILIDAD. Cuando comparamos a los individuos de la misma
+variedad o subvariedad de las plantas actuales que desde hace mucho tiempo van siendo
+cultivadas, y de nuestros animales domésticos más antiguos, una de las primeras cosas
+que más nos extraña es, sin duda, ver cómo generalmente difieren entre sí en mayor escala unos individuos de otros que los individuos de cualquier otra especie o variedad estudiada en el estado natural. Así como cua ndo reflexionamos sobre la vasta diversidad de
+las plantas y animales que respectivamente han sido cultivados y domesticados, variando
+durante todas las edades, ya sea por la influencia de los climas, por un tratamiento diferente, nos vemos obligados a concluir que esta gran variabilidad es debida a que nuestras
+producciones domésticas se han formado en condiciones de vida menos uniformes, diferentes de aquellas a las que había sido primitivamente expuesta la especie madre en la
+naturaleza. Ahora bien; aunque no deja de tener alguna probabilidad la opinión expuesta
+por Andreu Knight de que esta variabilidad pueda tener cierta conexión con el exceso de
+alimento, parece, sin embargo, evidente que los seres orgánicos necesitan estar expuestos
+durante algunas generaciones a condiciones nuevas para que en ellos se origine cualquier
+gran variación, que continúa luego durante muchas generaciones. No se sabe de ningún
+caso en que un organismo variable haya dejado de variar sometido al cultivo, por lo cual
+las plantas cultivadas desde hace mucho, como por ejemplo el trigo, todavía siguen presentando nuevas variedades, y los animales que desde muy atrás pasaron al estado doméstico son aún susceptibles de mejoras y modificaciones rápidas.
+Después de dedicarle al asunto mucha atención, debemos decir que, al parecer, las condiciones propias de la vida obran de dos modos: 1°, directamente sobre el conjunto de la
+organización o sobre ciertas partes tan sólo; 2°, indirectamente, afectando al sistema reproductivo. Con respecto a la acción directa, debemos tener presente que en todos los casos, como últimamente ha afirmado el profesor Weismann, hay aquí dos factores que
+considerar, a saber: la naturaleza del organismo y la naturaleza de las condiciones, de los
+cuales el primero parece ser mucho más importante que el segundo, puesto que algunas
+variaciones próximamente semejantes surgen a veces en condiciones que, en cuanto podemos apreciarlas, son desemejantes; y por otra parte, surgen variaciones desemejantes
+en condiciones que parecen ser casi uniformes. Los efectos en la prole son definidos e
+indefinidos. Serán definidos cuando toda o casi toda la descendencia de los individuos
+expuestos a ciertas condiciones, durante algunas generaciones, salga a la luz modificada
+de la misma manera, y no olvidemos que es en extremo difícil llegar a determinada conclusión respecto de la extensión de los cambios que de este modo han sido definidamente
+introducidos. Puede, sin embargo, caber ligera duda sobre muchos cambios de poca monta, tales como el tamaño, a causa de la cantidad de alimento, el color motivado por la naturaleza del mismo, el espesor de la piel y del pelo causado por el clima, etc. Así, por
+ejemplo, cada una de las innumerables variaciones que vemos en el plumaje de nuestras
+aves debe de haber tenido alguna causa eficiente; y si esta tuviera que obrar uniformemente por una larga serie de generaciones en muchos individuos, todos se modificarían
+probablemente del mismo modo. Hechos tales como las complejas y extraordinarias excrecencias que invariablemente siguen a la inoculación de una pequeña gota de cochini-
+
+lla, nos muestran qué modificaciones singulares podrían resultar en las plantas por sola
+constitución química en la naturaleza de la savia.
+Vemos variabilidad indefinida en las innumerables, aunque pequeñas peculiaridades
+que distingue a los individuos de la misma especie y que no pueden ser explicadas por
+herencia, ya sea del padre, de la madre o del antecesor más remoto. También aparecen
+algunas veces, diferencias muy marcadas en los hijos del mismo parto y en las plantas
+procedentes de una misma cápsula de semilla. A largos intervalos de tiempo, entre millones de individuos criados en el mismo país y sustentados próximamente con el mismo
+alimento, surgen desviaciones de estruct ura tan pronunciadas que merecen llamarse
+monstruosidades; pero estas no pueden ser separadas por línea determinada de otras variaciones más ligeras. Todos los cambios de estructura, ya sean en extremo insignificantes, o profundamente marcados, que aparece n entre muchos individuos que viven juntos,
+pueden ser considerados como efectos indefinidos de las condiciones de vida de cada organismo individual, casi del mismo modo en que un escalofrío afecta a diferentes ho mbres, de manera indefinida, según el estado de sus cuerpos o constitución, causando toses
+o resfriados, reumatismos o inflamaciones de órganos diversos.
+Algunos naturalistas han sostenido que todas las variaciones están en relación con el
+acto de la reproducción sexual; pero esto es ciertamente un error, pues hemos dado en
+otra obra una larga lista de plantas locas, como los jardineros las llaman, es decir, de
+plantas que han producido de repente un solo botón con carácter nuevo y algunas veces
+muy diferente del de los otros botones de la misma planta. Estas variaciones de vástagos,
+así suelen llamarse, pueden propagarse por injertos, tallos, etcétera, y algunas veces por
+semilla; y aunque ocurren rara vez en la naturaleza, distan mucho de ser escasas en el
+cultivo.
+EFECTOS DEL HABITO Y DEL USO O DESUSO DE LAS PARTES. VARIACIÓN
+CORRELATIVA. HERENCIA. Hábitos cambiados producen efectos hereditarios, según
+se ve en el período de la florescencia de las plantas cuando se las transporta de un clima a
+otro. En cuanto a los animales, el uso o desuso de las partes ha tenido en ellas una influencia más marcada; así encontramos en el pato doméstico que los huesos del ala pesan
+menos y los huesos de la pierna más, en proporción a todo el esqueleto, que lo que pesan
+los mismos huesos en el pato salvaje; y este cambio puede atribuirse, sin riesgo de equivocarse, a que el pato doméstico vuela mucho menos y anda mucho más que sus salvajes
+padres. Aquí únicamente alud iremos a lo que puede, llamarse variación correlativa. Los
+cambios importantes del embrión o larva ocasionan probablemente los cambios del animal adulto. Los criadores creen que remos prolongados acompañan casi siempre a cabezas alargadas. Algunos ejemplos de correlación son completamente caprichosos: así los
+gatos enteramente blancos y de ojos azules son en general sordos, lo cual sólo sucede a
+los machos. El color y ciertas peculiaridades de estructura van unidos, como podríamos
+demostrarlo con muchos casos notables de animales y plantas.
+Toda variación que no sea hereditaria carece de importancia para nosotros; pero el número y diversidad de las desviaciones de estructura que pueden transmitirse por herencia,
+tanto de poca como de mucha importancia fisiológica, no tiene término. Cuando aparece
+con frecuencia una desviación de estructura, y la vemos en el padre y en el hijo, no podemos decir que no pueda ser debida a la misma causa que ha obrado en ambos; pero
+cuando entre individuos, al parecer expuestos a las mismas condiciones, se presenta en el
+
+padre alguna desviación muy rara, debida a extraordinaria combinación de circunstancias
+-por ejemplo, una vez entre varios millones de individuos- y reaparece en el hijo, la nueva
+doctrina de las probabilidades casi nos obliga a atribuir la reaparición a la herencia. Acaso la opinión exacta sobre el asunto, en general reside en mirar a la herencia de cua lquier
+rasgo como regla, y a la no-herencia como anomalía.
+Las peculiaridades que aparecen en los machos de nuestras crías domésticas, son frecuentemente transmitidas a los machos exclusivamente, y en grado mucho más elevado.
+Sin embargo, la regla más importante en esta materia, y en la que creemos puede confiarse, es que en cualquier período de la vida en que aparece por primera vez una peculiaridad, esta tiende a reaparecer en la cría al llegar a edad correspondiente, aunque adela ntándose algunas veces. En muchos casos no podía suceder otra cosa; así las peculiarid ades heredadas en los cuernos del ganado vacuno pueden aparecer solamente en la cría
+cuando esta es ya casi adulta: las peculiaridades en el gusano de seda, como es notorio,
+aparecen en la fase correspondiente al capullo; pero las enfermedades hereditarias y algunos otros hechos nos hacen creer que la susodicha regla tiene más amplia extensión, y
+que, cuando no hay razón aparente para que aparezca una peculiaridad en edad determinada, tiende a presentarse en la cría en el mismo período en que apareció primero en el
+padre, por lo que creemos que esta regla es de muchísima importancia para explicar las
+leyes de la embriología. Estas observaciones quedan naturalmente reducidas a la primera
+aparición de la peculiaridad y no a la causa primaria que pueda haber obrado en los óvulos o en el elemento macho: casi del mismo modo que el aumento en la longitud de los
+cuernos, en la cría de una vaca de astas cortas y de un toro de astas largas, aunque aparezcan en los últimos períodos de la vida, se debe claramente al elemento macho.
+Habiendo aludido al retroceso o salto hacia atrás, podemos referir aquí un hecho manifestado a menudo por los naturalistas, a saber: que nuestras variedades domésticas, cuando se las deja en estado salvaje, gradual pero invariablemente, retroceden en sus distintivos a su primitivo tronco, de donde nace el argumento de que no se pueden sacar de razas
+domésticas especies correspondientes al estado natural.
+Podemos seguramente concluir que muchísimas de las variaciones domésticas más
+marcadas no podrían vivir en estado salvaje, puesto que en muchos casos no sabemos
+cuál sea el tronco primitivo, y por cons iguiente, no podemos decir si se ha verificado o no
+el retroceso casi perfecto, mientras que para evitar los efectos del cruzamiento sería necesario que una sola variedad hubiera quedado suelta en su nueva reside ncia.
+CARÁCTER DE LAS VARIEDADES DOMÉSTICAS; DIFICULTAD DE
+DISTINGUIR ENTRE VARIEDADES Y ESPECIES; ORIGEN DE LAS
+VARIEDADES DOMÉSTICAS DE UNA O MÁS ESPECIES. Si examinamos ahora las
+variedades hereditarias, o sea la razas de nuestros animales y plantas en estado doméstico,
+y las comparamos con especies íntimamente unidas, descubriremos generalmente en cada
+raza doméstica, como ya lo hemos notado, menos uniformidad de carácter que en las verdaderas especies.
+Las razas domésticas de la misma especie se diferencian entre sí del mismo modo que
+las especies muy próximas del mismo género en estado natural; pero estas diferencias son
+en menor número.
+
+Se ha supuesto frecuentemente que el hombre ha escogido para la domesticidad animales y plantas que poseen extraordinaria e inherente tendencia a variar, así como a resistir a
+los diversos climas. No disputaremos sobre si las capacidades han aumentado grandemente el valor de la mayor parte de nuestras producciones domésticas; pero ¿cómo es posible que un salvaje conociera, cuando por primera vez domaba un animal, si este variase
+o no en las generaciones sucesivas y si había de soportar otros climas? La poca variabilidad del asno y del ganso, o la escasa facultad del reno para sufrir el calor, o la del camello
+común con respecto al frío, ¿impidió acaso su domesticidad? No podemos dudar que si
+otros animales y plantas, iguales en número a nuestras producciones domésticas, y que
+pertenecen a clases y países igualmente diversos, fuesen tomados del estado natural y se
+les pudiera hacer criar por un número igual de generaciones, variarían en domestic idad,
+por término medio, tanto como han variado las especies madre, de nuestras producciones
+domésticas hoy existentes. Aunque el origen de la mayor parte de nuestros animales domésticos quedará siempre incierto, podemos asegurar aquí que, estudiando a los perros
+domésticos del mundo entero, después de la laboriosa colección de todos los hechos conocidos, hemos llegado a concluir que varias de las especies salvajes conocidas con el
+nombre de canidoe han sido domesticadas, su sangre, en algunos casos mezclada, corre
+en las venas de nuestras castas domésticas, así como ingenuamente confesamos que con
+respecto a los carneros y cabras no podemos formar una opinión decidida. De hechos que
+nos han sido comunicados por Mr. Blyth sobre los hábitos, voz, constitución y estructura
+del ganado indio de joroba, deducimos ser casi cierto que desciende de un tronco original
+diferente del de nuestro ganado europeo, y algunas autoridades competentes creen que
+este último ha tenido dos o tres progenitores salvajes, merezcan o no el nombre de especies. Esta conclusión, al igual que la distinción específica entre el ganado común y el de
+joroba, puede considerarse como confirmada por las admirables investigaciones del profesor Rütiger. Con respecto a caballos, por razones que aquí no podemos dar, dudosamente nos inclinamos a creer, en oposición a varios autores, que todas las razas pertenecen a la misma especie. Habiendo tenido ejemplares vivos de casi todas las castas inglesas de aves de corral, habiéndoselas criado y cruzado, después de examinar sus esqueletos, nos parece casi cierto que en su totalidad descienden de la raza salvaje india Gallus
+bankiva. Con respecto a patos y conejos, cuyas castas varían mucho entre sí, está claramente probado que descienden respectivamente del pato y conejo s alvajes.
+La doctrina del origen de las varias razas domésticas de varios troncos primitivos ha sido llevada a un extremo absurdo por algunos autores que creen que toda raza origen de
+verdadera casta, por insignificantes que sean sus caracteres distintivos, posee prototipo
+salvaje. Tenemos que admitir que muchas castas domésticas deben haberse originado en
+Europa. Porque, ¿de dónde si no podrían haberse derivado? Lo mismo acontece en la India, e incluso en el caso de las castas de perro doméstico esparcidas por el mundo, que
+con gusto admitimos, descienden de varias especies salvajes, no puede dudarse que ha
+habido inmensa suma de variaciones heredadas. Con tanta frecuencia como descuido se
+ha dicho que todas nuestras razas de perros han sido producidas por el cruzamiento de
+unas pocas especies primitivas; pero no se olvide de que por cruzamientos podemos solamente obtener formas que en algún grado sean intermedias entre las que son peculiares
+a los padres; y si explicamos la variedad de razas domésticas por este procedimiento, tenemos que admitir la existencia anterior de formas más extremas, tales como el galgo italiano, sabueso, alano, etc., en estado salvaje.
+
+Más todavía; la posibilidad de obtener razas distintas por cruzamiento ha sido muy
+exagerada, pues existen numerosos ejemplos que demuestran que una raza puede ser modificada por cruzamientos de cuando en cuando, si estos están ayudados por la cuidadosa
+selección de los individuos que pr esentan el distintivo que se desea; pero obtener una raza
+intermedia entre dos completamente distintas, sería muy difícil. La cría del primer cruzamiento entre dos razas puras es pasable y algunas veces se presenta en un todo unifo rme en carácter, siendo bastante sencilla la operación; pero al cruzar estos mestizos durante algunas generaciones, apenas se obtienen dos que sean semejantes, haciéndose entonces manifiesta la dificultad de la empresa.
+A pesar de las grandes diferencias existentes entre las castas de palomas, estamos plenamente convencidos de que la opinión comú n de los naturalistas es exacta cuando afirman que todas descienden de la paloma silvestre, columba livia, incluyendo en este término algunas razas o subespecies geográficas, que se diferencian en puntos del todo insignificantes; y como algunas de las razo nes que nos han suministrado esta creencia son
+aplicables en cierto modo a otros casos, las expondremos aquí brevemente. En efecto, si
+las varias castas no son variedades y provienen de la paloma bravía, deberían descender
+de siete u ocho troncos primitivos, como mínimo, puesto que es imposible obtener las
+castas domésticas actuales por el cruzamiento de número menor. ¿Cómo, por ejemplo,
+puede una paloma pouter ser producida por el cruzamiento de dos castas, a menos que
+una de las razas madre poseyera de antemano el enorme buche que caracteriza a la especie? Los supuestos troncos primitivos deben haber pertenecido en masa a las palomas de
+campo, esto es, a las que no crían ni voluntariamente se posan en los árboles. Pero además de la columba livia y sus subespecies geográficas, solamente se conocen dos o tres
+especies más de palomas silvestres que carecen de todos los caracteres de las castas domésticas. De aquí que los supuestos troncos primitivos, o deben existir todavía en los países en los que primeramente fueron domesticados, siendo desconocidos por los ornitólogos -a pesar de su tamaño, hábitos y caracteres notables- lo cual parece improbable, o deben haberse extinguido en el estado salvaje.
+Pero las aves que anidan en precipicios y que son, por lo tanto, muy voladoras no es
+probable que sean fácilmente exterminadas. Las diferentes razas domésticas han sido
+transportadas a todos los ángulos del mundo, y debido a eso, algunas de ellas deben haber
+sido devueltas a su país natal sin que ni una siquiera se haya vuelto silvestre o brava.
+Aunque la paloma de palomar, que es la silvestre en estado ligerísimamente alterado, ha
+logrado en algunos lugares volver a dicho estado primitivo. Además, todos los exper imentos recientes demuestran que es difícil conseguir que los animales silvestres críen libremente en estado doméstico, y sin embargo, en la hipótesis del origen múltiple de nuestras palomas, debería suponerse que seis o siete especies, por lo menos, fueron en tiempos
+antiguos tan completamente domesticadas por el hombre semicivilizado que, estando encerradas, se tornaron prolíficas.
+El hombre semicivilizado consiguió domesticar por completo algunas especies, intencional o casualmente extrajo especies extraordinariamente anormales, aunque estas mismas especies se han extinguido o son desconocidas desde entonces.
+Ahora bien, tomando en cada una de las castas domésticas ejemplares muy bien criados, todos los indicios, hasta el ribete blanco de las plumas timoneras de la cola, se verán
+algunas veces perfectamente desarrollados, y cuando se crucen parejas que pertenezcan a
+
+dos o más castas distintas, no azules ni con un solo indicio, la prole obtenida repentinamente adquirirá esos caracteres.
+En una casta que se ha cruzado sólo una vez, la tendencia a volver a algún carácter derivado de tal cruzamiento será naturalmente cada vez menor, y en cada generación sucesiva quedará menos dosis de sangre extraña; pero cuando no ha habido cruzamiento y hay
+tendencia en la casta a volver a algún carácter que se perdió en alguna generación anterior, esta tendencia parece, por el contrario, poder transmitirse sin disminución por un
+número indefinido de generaciones.
+Por la improbabilidad de que el hombre haya hecho anteriormente que siete u ocho supuestas especies de palomas criasen libremente en domesticidad; por ser estas supuestas
+especies completamente desconocidas en estado silvestre, sin que en parte alguna se
+hayan tornado bravías; por presenciar ciertos caracteres más anormales con todas las demás columbideas, por la reaparición de vez en cuando del color azul y de los variados
+indicios de color negro en todas las castas, ya se las conserve puras, o se las cruce; y por
+último, por el fenómeno de ser la cría mestiza perfectamente fértil; podemos deducir sin
+riesgo que todas nuestras castas domésticas descienden de la paloma silvestre o columba
+livia y de sus subespecies geográficas.
+Hemos discutido con alguna extensión, aunque de ninguna manera con la bastante, el
+origen probable de las palomas domésticas, porque cuando por primera vez nos dedicamos a su crianza y observamos sus diversas clases, sabiendo bien cuán fielmente se reproducen, tuvimos la misma dificultad que cualquier naturalista para creer que desde el
+origen de su domesticidad todas habían procedido de un padre común, y no menor que la
+requerida para llegar a semejante conclusión con respecto a las muchas especies de pinzones o de otros grupos de aves salvajes.
+Jamás hemos encontrado criador alguno de palomas, de aves de corral, de patos o de
+conejos, que no estuviera plenamente convencido de que cada casta principal descendía
+de una especie distinta. Todos están fuertemente impresionados por las mismas diferencias de las diversas castas, y aunque saben que las razas se diferencian en muy poco, aunque obtienen premios por la selección de estas pequeñas diferencias, ignoran, sin embargo, todos los argumentos generales de la materia y rehúsan hacer mentalmente una suma
+de pequeñas diferencias semejante, acumuladas durante muchas generaciones sucesivas.
+Sabiendo por otra parte el naturalista mucho menos de las leyes de herencia que lo que
+conoce el criador, y no conociendo tampoco más que los rasgos intermedios en las largas
+líneas de descendencias, admite, sin embargo, que muchas de nuestras razas domésticas
+descienden de los mismos padres. ¿No podrían ser más cautos cuando se ríen de la idea
+que presenta las especies en estado silvestre, descendiendo en línea recta de otras especies?
+PRINCIPIOS DE SELECCIÓN ANTIGUAMENTE PRACTICADOS Y SUS
+EFECTOS. Consideremos ahora brevemente los pasos que han dado las razas domésticas
+para producirse, ya desciendan de una especie única o de varias inmediatas entre sí, para
+lo cual hay que atribuir algún efecto a la acción directa y definida de las condiciones externas de la vida, así como algunos al hábito.
+Uno de los rasgos más notables en nuestras razas domésticas es, sin duda, verlas adaptarse, no ciertamente en provecho propio, a la utilidad o capricho del hombre. Algunas
+
+variaciones útiles para este han surgido probablemente de repente, o par una sola operación. Por suerte, muchos botánicos han creído, por ejemplo, que la cabeza de la cardencha, provista de anzuelos, que no podrían obtenerse por procedimiento alguno mecánico,
+es solamente una de las variedades del dipsaco salvaje, habie ndo podido perfectamente
+este cambio nacer de una vez en alguna planta de semillero.
+Pero cuando comparamos al caballo de tiro con el de carrera, al dromedario con el camello, a las diferentes castas de ovejas,, cuando comparamos esa legión de plantas agr ícolas culinarias de huerta y jardín, creemos que es menester ver en todos estos hechos
+algo más que simple variabilidad, porque no podemos suponer que todas las castas fueran
+repentinamente producidas tan perfectas y útiles como hoy las vemos, sabiendo positivamente, como en muchos casos sabemos, que no ha sido así. La clave de esto se encuentra
+en la facultad que tiene el hombre de acumular fenómenos de selección. La naturaleza da
+variaciones sucesivas, y el hombre las va dirigiendo en ciertas direcciones que le son útiles, pudiendo en este sentido decirse que el hombre ha creado para sí las razas de las que
+recibe tanta utilidad.
+Hay quienes ponen en práctica el principio de selección como si ejercieran una profesión. Colocan a los carneros sobre una mesa y sobre ella los estudian; repiten tres veces
+con intervalo de algunos meses este primer paso, y en todas ellas marcan y clasifican a
+los carneros, de modo que solamente los mejores entre los mejores son, en definitiva, los
+que se destinan a la cría.
+Estas mejoras no son generalmente debidas al cruzamiento de diferentes castas, porque
+todos los mejores criadores se oponen tenazmente a esta práctica, excepto en muy raras
+ocasiones o cuando se trata de castas próximamente iguales. Una vez verificado el cruzamiento es indispensable la más vigorosa selección. Si esta consistiese meramente en
+separar alguna variedad muy distinta para hacer cría, el principio sería tan claro que apenas merecería mencionarse; pero su importancia consiste en el gran efecto producido por
+la acumulación en un sentido, durante generaciones sucesivas.
+Los horticultores siguen los mismos principios; pero a la vez las variaciones son más
+bruscas, y nadie supondrá que nuestros mejores productos sean el resultado de una sola
+variación del tronco origen.
+Con respecto a las plantas, una vez establecida con precisión una raza, los plantadores
+arrancan a los tunantes (las matas que al nacer se desvían del conveniente tipo).
+Hay otros medios para observar los efectos de selección ya acumulados, a saber: comparar la diversidad de flores en las diferentes variedades de la misma especie en un mismo jardín. La ley de la variación correlativa, cuya importancia no debe menospreciarse
+jamás, siempre nos dará seguras diferencias; pero por regla general no se puede dudar de
+que una selección continuada, en las hojas, en las flores, o en los frutos, producirá razas
+que se diferencien unas de otras, principalmente en estos caracteres.
+En épocas rudas y bárbaras de la historia de Inglaterra se importaban con frecuencia
+animales escogidos y se daban leyes para impedir su exportación. Una ley ordenaba la
+destrucción de todos los caballos que no poseyesen cierta alzada, lo cual puede compararse a lo que hoy hacen los jardineros con las plantas malas. Algunos escritores clás icos
+romanos han dado también reglas explícitas sobre este punto, mostrando claramente al-
+
+gunos pasajes del Génesis, que en aquel remoto tiempo se atendía mucho al color de los
+animales domésticos. Los salvajes cruzan hoy, algunas veces, sus perros con animales
+salvajes de la raza canina para mejorar la casta. Por algunos de estos hechos puede inducirse que la selección no es cosa de hoy, sino que la cría de animales domésticos mereció
+cuidadosa atención en tiempos antiguos, como ahora entre los salvajes más degradados.
+Y la verdad es que habría sido extraño que así no hubiese sucedido, cuando tan evidente
+es que las buenas y las malas cualidades son hereditarias.
+SELECCIÓN METÓDICA E INCONSCIENTE. ORIGEN DESCONOCIDO DE
+NUESTRAS PRODUCCIONES DOMÉSTICAS. Hoy en día, los más eminentes criadores tratan por medio de una selección metódica y con un objeto determinado formar una
+nueva subcasta o estirpe superior a cuantos géneros existan en su país. Pero para nuestro
+propósito, es más importante una forma de selección que podría llamarse inconsciente, y
+que resulta a todo el que intenta poseer los mejores animales y hacerlos reproducirse. Así,
+el hombre que quiere tener perros de muestra, naturalmente trata de elegir perros buenos
+y después cría con los mejores, aunque no tenga el deseo ni la esperanza de alternar pe rmanentemente la casta. Este procedimiento, continuado por el transcurso de siglos, mejoraría y modificaría cualquier casta. Cambios lentos e insensibles de esta clase jamás pueden ser reconocidos, a menos que se hayan tomado mucho antes buenas medidas o cuidadosos dibujos de las razas en cuestión, que puedan servir después como punto de comparación.
+En algunos casos se encuentran, sin embargo, individuos de la misma casta, no cambiados o cambiados en muy poco, en los lugares menos civilizados, donde la respectiva
+raza ha sido menos mejorada. Hay razones para creer que el perro setter deriva directamente del sabueso, dado que según toda probabilidad, no es más que una alteración lenta
+de este.
+Youalt suministra un excelente ejemplo de los efectos de la selección continuada y que
+puede considerarse como inconsciente, puesto que los criadores no podrían nunca haber
+esperado, ni siquiera haber deseado, producir el resultado que sobrevino, a saber: la producción de dos estirpes distintas.
+Aun entre los salvajes más bárbaros, que nunca piensan en el carácter hereditario de las
+crías de sus animales domésticos, cualquier animal que les sea especialmente útil para un
+objeto cualquiera es cuidadosamente conservado durante el hambre y las plagas a las que
+tan expuestos están y esos animales escogidos dejarían generalmente más crías que los
+inferiores; de modo que, en este caso, se verificaría una especie de selección inconscie nte.
+En las plantas, este mismo procedimiento gradual de mejora por medio de la conservación incidental de los mejores individuos, ya sean o no lo bastante distintos para ser clasificados como variedades diversas a su primera aparición, y ya dos o más especies o razas
+se hayan o no mezclado por cruzamiento, puede plenamente reconocerse en el aumento
+de tamaño y belleza que ahora vemos en las variedades de plantas, cuando las comparamos con las variedades más antiguas o con aquellas que las originaron.
+Una gran suma de cambios lenta e inconscientemente acumulados explica a nuestro
+juicio el hecho notorio de que en cierto número de casos no podamos reconocer, y por lo
+tanto ignoremos, los troncos silvestres, orígenes de las plantas que han sido cultivadas
+
+desde hace mucho tiempo en nuestros jardines y huertas. Si se han necesitado cientos o
+miles de años para mejorar o modificar la mayor parte de nuestras pla ntas hasta su tipo
+actual, tan útil para el hombre, podremos fácilmente entender cómo Australia, el Cabo de
+Buena Esperanza u otras regiones habitadas por el hombre completamente incivilizado no
+han podido darnos una sola planta que valga la pena de ser cultivada. No es que estos países, tan ricos en especies, no posean por extraña casualidad los troncos originales de plantas útiles, sino que las plantas del país no han sido llevadas por la selección continuada
+hasta un punto de perfección comparable con la adquirida por las plantas en los países
+antiguamente civilizados.
+Con respecto a los animales domésticos del hombre incivilizado, no debe perderse de
+vista que aquellos tienen casi siempre que buscarse su propio alimento, al menos durante
+ciertas estaciones. Y en dos países de circunstancias muy diferentes, los individuos de la
+misma especie que posean constituciones o estructuras ligeramente distintas se lograrían
+mejor en un país que en el otro; y así por un procedimiento de selección natural podrían
+llegar a formarse dos rubrazas. Quizás esto explique en parte por qué las cualidades que
+tienen los animales domésticos de los salvajes, como ya lo han notado algunos autores,
+tienen más carácter de verdaderas especies que las variedades existentes en países civilizados.
+En la opinión presentada aquí acerca del papel importante que ha desempeñado la selección ejercida por el hombre, se hace desde luego evidente por qué nuestras razas domésticas se adaptan en estructura o en hábitos a las necesidades o caprichos del hombre.
+Podemos, a nuestro juicio, entender además el carácter frecuentemente anormal de nuestras razas domésticas y explicarnos por qué las diferencias son tan grandes en los caracteres externos, como relativamente pequeñas en las partes internas u órganos. El hombre
+apenas puede escoger, y si puede es con mucha dificultad, las desviaciones de estructuras,
+excepto las que son extername nte visibles; y cuidándose muy raras veces lo que es interno. Nunca puede verificar la selección, a no ser en aquellas variaciones que en escaso
+grado la misma naturaleza le muestra de antemano. El primer hombre que escogió una
+paloma con cola ligeramente más larga, seguramente ni se imaginó lo que los descendientes de esa paloma llegarían a hacer por selección, en parte inconsciente, y en parte metódicamente continuada.
+El hombre conserva y hace cría de un individuo cor, alguna pequeña particularidad de
+estructura, o pone más cuidado que de costumbre al aparear sus mejores animales, y de
+este modo los perfecciona hasta que los ya mejorados poco a poco se esparcen por las
+cercanías. Cuando ya están mejorados por el mismo procedimiento lento y gradual, se
+esparcen aún más, hasta llegar a ser reconocidos como algo distinto y apreciable; es entonces cuando probablemente reciben por primera vez un nombre que podríamos llamar
+provincial. En los países semicivilizados, en donde las comunicaciones son escasas, sería
+un procedimiento lento la propagación de cualquier nueva subraza. Una vez reconocidos
+los puntos más interesantes en esta materia, el principio de selección que hemos llamado
+inconsciente tenderá siempre, y tal vez más en un período que en otro, según esté más o
+menos de moda la raza, tal vez más en una localidad que en otra, y según el estado de civilización de los habitantes, a aumentar poco a poco los rasgos característicos de la raza,
+cualesquiera que estos puedan ser. Pero será infinitamente pequeña la probabilidad de que
+
+se conserve memoria alguna de los cambios lentos e insensibles por los que pasan los individuos.
+CIRCUNSTANCIAS FAVORABLES A LA FACULTAD DE SELECCIÓN DEL
+HOMBRE. La extremada variabilidades evidentemente favorable en esta materia, puesto
+que libremente da los materiales con los que trabaja la selección. No queremos decir que
+las meras diferencias individuales no sean más que suficientes para permitir con extremo
+cuidado la acumulación de una gran suma de modificaciones por todas o casi todas las
+vías apetecibles, sino que como las variaciones manifiestamente útiles o agradables al
+hombre aparecen solamente de vez en cuando, no hay duda de que aumentarán mucho las
+probabilidades, en presencia de un gran número de individuos. Por lo tanto el número será de importancia para el éxito. No podrá obtenerse un gran número de individuos de un
+animal o de una planta, sin que sean favorables las condiciones para su propagación.
+Cuando los individuos escasean, hay que permitir que todo el mundo críe, sea cual fuere
+la calidad de los ejemplares que posean, lo cual impide prácticamente la selección. Pero
+el elemento más importante en esta materia es conocer qué animal o planta es más apreciado por el hombre, que dedica la más prolija atención aun a las desviaciones más insignificantes de las cualidades o estructura del objeto de su estudio, porque sin esa atención
+nada puede hacerse. La fresa comenzó a variar justamente cuando los jardineros empezaron a prestarle cuidados a esa planta. Cruzando distintas especies, aparecieron las muchas
+y admirables variedades de la fresa que se han visto durante los últimos cincuenta años.
+Respecto de los animales, la facilidad para impedir los cruzamientos es un elemento
+importante en la formación de nuevas razas, al menos en los países que ya poseen otras
+antiguas. En este concepto, los cercados del terreno influyen sobremanera en el resultado.
+Lo que más nos importa es que las variedades domésticas de la misma especie se diferencian unas de otras en casi todos los rasgos que el hombre ha atendido en la selección,
+más de lo que se diferencian las distintas especies del mismo género.
+Resumamos cuanto queda dicho sobre el origen de nuestras razas domésticas de animales y plantas: los cambios de las condiciones de vida son muy importantes al causar la
+variabilidad, ya sea por la acción directa en la organización o porque indirectamente afectan el sistema reproductivo. No es probable que sea la variabilidad un efecto inherente y
+necesario en todas las circunstancias. La mayo r o menor fuerza de herencia y la propensión a retroceder determinará si las variaciones han de mantenerse. La variabilidad está
+regida por muchas leyes desconocidas, entre las cuales el incremento correlativo es probablemente la más importante. Algo, aunq ue no sepamos cuánto, hay que atribuirle a la
+acción definida de las condiciones de vida. Algún efecto, quizás grande, puede atribuirse
+al uso o desuso de las partes. El resultado final es, pues, infinitamente complejo. En algunos casos parece que ha tenido parte importante en el origen de nuestras castas el intercruzamiento de distintas especies primitivas. Cuando diversas razas ya se han formado en
+cualquier país, su cruzamiento casual, favor ecido por la selección, ha contribuido mucho,
+sin duda, a la formación de nuevas subrazas; pero la importancia del cruzamiento ha sido
+muy exagerada, tanto tratándose de animales, como de las plantas que se propagan por
+medio de semillas. Respecto de las que se propagan por injertos, retoños, etc., la importancia del cruzamiento es inmensa, porque el cultivador puede en este caso olvidar la extrema variedad de las mezclas y su esterilidad, pero las plantas que no se propagan por
+semilla son de poca importancia para nosotros, porque su duración es solamente tempo-
+
+ral. Sobre todas estas causas de cambio, parece predominar la acción acumulada de la selección, aplicada metódica y prontamente, de un modo inconsciente y lento, aunque más
+eficaz.
+
+Capitulo II
+La variación en la naturaleza
+VARIABILIDAD. Antes de aplicar a los seres orgánicos en estado natural los principios a los que hemos llegado en el último capítulo, nos es preciso discutir brevemente si
+estos seres están o no sujetos a alguna variación; por lo cual, para tratar este asunto con
+propiedad, deberíamos dar aquí un largo catálogo de hechos áridos que reservaremos para
+una obra futura. Tampoco discutiremos aquí las varias definiciones que se han dado ya
+del término especie, pues ninguna ha satisfecho a todos los naturalistas. Generalmente,
+esta palabra encierra el elemento desconocido de un acto distinto de la creación. El término variedad es también de difícil definición, pero en él se sobreentiende casi universalmente la comunidad de origen, aunque rara vez pueda ser probada. Tenemos también las
+llamadas monstruosidades, que son cierto grado de las variedades, pero presumimos que
+por monstruosidad se da a entender alguna desviación considerable en la estructura, y que
+generalmente es nociva o de ninguna utilidad para la especie.
+Puede dudarse de que las rápidas y cons iderables desviaciones de estructura, tales como las que a veces vemos en nuestras producciones domésticas, y más especialmente en
+las plantas, puedan propagarse permanentemente en el estado natural, porque casi todas
+las partes de los seres orgánicos están tan admirablemente en relación con las condiciones
+complejas de su vida, que parece tan improbable que nazca repentinamente cualquier parte perfecta, como que el hombre hubiera inventado ya en el estado perfecto una máquina
+completa. En la domesticidad ocurren algunas veces monstruosidades que parecen estructuras normales de animales completamente distintos.
+DIFERENCIAS INDIVIDUALES. Las muchas aunque ligeras diferencias que aparecen en las crías procedentes de los mismos padres, o que podemos presumir que han tenido un mismo origen por haber sido observadas en individuos de la misma especie confinados a una misma localidad, pueden ser llamadas diferencias individuales. No hay nadie
+que suponga que todos los individuos de la misma especie han sido fundidos, digámoslo
+así, en el mismo molde. Sus diferencias individuales son de la mayor importancia para
+nosotros, porque, como todo el mundo sabe, casi siempre son heredadas, dando, por consiguiente, materiales para que la selección natural obre y las acumule de la misma manera
+en que el hombre lo hace en una dirección dada con sus producciones domésticas. Las
+diferencias que nos ocupan afectan generalmente a las que los naturalistas consideran
+como partes de escasa importancia; pero podríamos demostrar, por medio de un largo catálogo de hechos, que aun las partes que deben llamarse importantes, tanto desde el punto
+de vista fisiológico como de clasificación, varían también en los individuos de la misma
+especie.
+Hay un punto relacionado con las diferencias individuales, que es en extremo dificultoso: nos referimos a aquellos géneros que se han llamado "proteos" o "polimorfos", en los
+cuales las especies presentan cierta desordenada variación. Con respecto a muchas de estas formas, apenas hay dos naturalistas que convengan en si han de clasificarlas entre las
+
+especies o entre las variedades. En la mayor parte de los géneros polimorfos, algunas de
+las especies tienen caracteres fijos y definidos. Los géneros que son polimorfos en un país, parecen ser, con pocas excepciones, polimorfos en otro, y de igual manera en épocas
+anteriores, a juzgar por los moluscos braquiópodos. Estos hechos desconciertan, porque
+parecen demostrar que esta clase de variabilidad es independiente de las condiciones de la
+vida. Nos inclinamos a sospechar que vemos, al menos en algunos géneros, variaciones
+que no sirven ni perjudican a la especie, y que, por consiguiente, no han sido fijadas ni
+convertidas en definitivas por la selección natural, como se explicará más adelante.
+Individuos de la misma especie presentan a menudo, como todos saben, grandes diferencias de estructura independientemente de la variación, como ocurre en los dos sexos
+de varios animales, en las dos o tres castas de hembras estériles u obreras entre los insectos, y en los estados imperfectos y larvales de muchos animales inferiores. También hay
+casos de dimorfismo y trimorfismo en los animales y en las plantas.
+Al principio causa ciertamente gran sorpresa que la misma mariposa hembra tenga poder para producir al mismo tiempo tres formas distintas de hembras y un macho, y que
+una planta hermafrodita produzca de la misma cápsula seminal tres formas hermafroditas
+distintas, que encierran otras tantas clases diferentes de hembras, y no sólo tres, sino hasta
+seis clases distintas de machos. Sin embargo, estos casos no son más que exageracio nes
+del hecho común de que la hembra produce machos y hembras, que algunas veces se diferencian entre sí de un modo extraordinario.
+ESPECIES DUDOSAS. Las formas que poseen en gran escala el carácter de especies,
+pero que al mismo tiempo son tan semejantes a otras formas, o están tan estrechamente
+unidas a ellas por graduaciones intermedias, que los naturalistas no han querido clasificarlas como especies distintas, son por varios conceptos las más importantes para nosotros, porque tenemos sobradas razones para creer que muchas de estas formas dudosas,
+estrechamente parecidas, han conservado permanentemente sus caracteres por tanto tiempo como las buenas y verdaderas especies. En la práctica, cuando un naturalista puede
+unir por medio de eslabones intermedios dos formas cualesquiera, considera la una como
+una variedad de la otra y coloca la más común, y algunas veces la que primero fue descripta, como la especie, mientras que a la otra la presenta como variedad. Pero surgen a
+veces casos de gran dificultad, que no enumeraremos aquí, cuando debemos determinar si
+hay que clasificar o no una forma como variedad de otra, aun cuando están muy unidas
+por lazos intermedios, sin que pueda resolver la dificultad la naturaleza de las formas intermedias que se suponen comúnmente híbridas.
+¡Cuántos pájaros e insectos de América del Norte y de Europa, que se diferencian poquísimo unos de otros, han sido clasificados por un eminente naturalista como legítimas
+especies y por otro como variedades, por lo que frecuentemente se llaman razas geográficas! Mr. Wallace demuestra que pueden clasificarse estas variedades en cuatro categorías: formas variables, formas locales, razas geográficas o subespecies y especies verdaderamente representativas. Las formas variables varían mucho sin salir de la misma isla.
+Las formas locales son bastante constantes y distintas en cada isla, pero cuando se comparan juntas todas las de las diversas islas, se ve que las diferencias son tan pequeñas y
+graduadas, que es imposible definirlas o describirlas, aunque al mismo tiempo sean suficientemente distintas las formas extremas. Las razas geográficas o subespecies son formas locales completamente fijas y aisladas, pero como no se diferencian unas de otras en
+
+caracteres importantes y muy marcados, no queda más que la opinión individual para determinar cuáles entre ellas han de ser consideradas como especies y cuáles como variedades. Por último, las especies representativas ocupan el mismo lugar en la economía natural de cada isla, que las formas locales y subespecies; pero como se distinguen unas de
+otras por mayor cantidad de diferencias que las existentes entre las formas locales y subespecies, son casi universalmente clasificadas por los naturalistas, entre las verdaderas
+especies. Sin embargo, no es posible dar un criterio cierto, por el cual se reconozcan las
+formas variables, las formas locales, las subespecies y las especies representativas.
+Mr. B.D. Warlsh, distinguido entomólogo de los Estados Unidos, ha descrito lo que él
+llama variedades y especies fitófagas. La mayor parte de los insectos que se alimentan
+con vegetales viven en una clase o grupo determinado de plantas.
+Ciertamente, todavía no se ha trazado línea alguna que sea clara acerca de la separación
+que media entre especies y subespecies o entre las formas que, en opinión de algunos naturalistas, están muy cerca del rango de especies, pero no llegan enteramente a serlo; ni
+tampoco entre subespecies y variedades bien marcadas, o e ntre variedades menores.
+Así es que, por nuestra parte, consideramos las diferencias individuales como de la mayor importancia para nosotros, por ser ellas los primeros pasos hacia esas pequeñas variedades que rara vez se consideran dignas de figurar en las obras de historia natural.
+Por las observaciones anteriores se verá que consideramos la palabra especie como arbitrariamente y por pura conveniencia dada a una colección de individuos muy semejantes los unos a los otros, sin diferenciarse esencialmente del término variedad, que se aplica a formas menos distintas y más fluctuantes. La palabra variedad también, en comparación con meras diferencias individuales, es arbitrariamente aplicada por cuestión de comodidad.
+LAS ESPECIES COMUNES MUY EXTENDIDAS SON LAS QUE MÁS VARÍAN.
+Alfonso de Candolle y otros han demostrado que las plantas que tienen distribución muy
+extensa presentan generalmente variedades, lo cual era de esperar, puesto que están expuestas a diversas condiciones físicas y entran en competencia con diferentes clases de
+seres orgánicos. Pero nuestras tablas demuestran también que en cualquier país limitado
+las especies que son más comunes, esto es, que abundan más en individuos, y las que están más extensamente difundidas dentro de su propio país, darán muy a menudo lugar a
+variedades bien y suficientemente marcadas como para haber sido anotadas en las obras
+de botánica. De aquí que las especies más florecientes, o como podría decirse, las especies dominantes (aquellas que ocupan grandes regiones, que son las más difundidas en su
+propio país y cuyos individuos son más numerosos) son las que más frecuentemente producen variedades bien marcadas, o según nuestras consideraciones, especies incipientes.
+Y esto podía haber sido previsto, porque como las variedades, para llegar a ser permanentes en cualquier grado, tienen que luchar contra los otros habitantes del país, las especies
+que son ya dominantes serán las que probablemente se reproducirán, y su descendencia,
+aunque un tanto modificada, heredará todavía aquellas ventajas que hicieron a sus padres
+ser dominantes sobre sus coetáneos.
+LAS ESPECIES DE LOS GÉNEROS MAYORES EN CADA PMS VARÍAN CON
+MAS FRECUENCIA QUE LAS ESPECIES DE LOS GÉNEROS MENORES. Si se dividieran en dos partes iguales las plantas de un país descritas en cualquier flora y se colo-
+
+caran a un lado todas aquellas que pertenecen a los géneros mayores, esto es, aquellas que
+comprenden muchas especies, y en el otro lado todas las de los géneros menores, la primera división incluiría un número algo mayor de las especies muy comunes y muy difundidas o dominantes.
+Por considerar las especies solamente como variedades muy marcadas y bien definidas,
+nos vimos inducidos a anticipar que las especies de los géneros mayores en cada país presentarían variedades más a menudo que las especies de los géneros más pequeños, porque
+dondequiera que muchas especies íntimamente relacionadas, es decir, especies del mismo
+género, se hayan formado, deben, por regla general, estar formándose muchas variedades
+o especies incipientes.
+Muchas de las especies incluidas en los géneros mayores se parecen a las variedades,
+debido a que están muy íntimas aunque desigualmente, relacionadas unas con otras, y a
+que tienen distribución limitada. Hay otras relaciones dignas de notarse entre las especies
+de los géneros grandes y sus variedades ahora observadas. Las especies de los géneros
+mayores se parecen a las variedades más que las especies de los géneros más pequeños. O
+poniendo el caso de otra manera, puede decirse que en los géneros mayores, en los que se
+está manufacturando un número mayor que el ordinario, de variedades o especies incipientes, muchas de las especies ya formadas se parecen hasta cierto punto, a las variedades, porque difieren unas de otras en una cantidad de cosas menor que la acostumbrada.
+Además, las especies de los géneros mayores están relacionadas entre sí del mismo
+modo en que las variedades de cualquier especie lo están unas con otras. Ningún naturalista pretende que todas las especies sean igualmente distintas unas de otras, sino que generalmente pueden ser divididas en subgéneros o secciones, o en grupos menores.
+Finalmente, las variedades no pueden distinguirse de las especies, si no es, primero, por
+el descubrimiento de formas intermedias eslabonadas entre sí, y segundo, por cierto grado
+indefinido de diferencia entre ellas: porque dos formas que se diferencian muy poco son
+generalmente clasificadas entre las variedades, aun cuando no puedan ser enlazadas estrechamente, sin que por esto sea posible definir el grado de diferencia que se considera
+necesario para dar a dos formas cualesquiera el nombre de especies. En los géneros que
+en cualquier país tienen un número de especies mayor que el señalado por el término medio, las especies cuentan con un número de variedades mayor que el asignado por dicho
+término medio. En los géneros grandes, las especies están unidas íntima, aunque desigualmente, formando grupos pequeños alrededor de otras especies. Las especies muy
+inmediatas a otras tienen aparentemente extensión limitada. En todos estos conceptos, las
+especies de los géneros grandes presentan gran analogía con las variedades. Y podemos
+comprender claramente estas analogías si las especies existieron en algún tiempo como
+variedades, y así se organizaron, mientras que son completamente inexplicables dichas
+similitudes si las especies son creaciones independientes.
+Hemos visto también que las especies más florecientes o dominantes de los géneros
+mayores dentro de cada clase son las que por término medio poseen mayor número de
+variedades, y estas, tienden a convertirse en nuevas y distintas especies. Así los géneros
+considerados mayores tienden a serlo aun más, y en la naturaleza, las formas de vida hoy
+dominantes tienden a serlo todavía más, dejando muchos descendientes modificados y
+dominantes. Pero por pasos que se explicarán más adelante, los géneros mayores tienden
+
+a descomponerse en géneros más pequeños. Y así las formas de vida en todo el universo
+quedan divididas en grupos subordinados a otros grupos.
+
+Capítulo III
+La lucha por la existencia
+SU RELACIÓN CON LA SELECCIÓN NATURAL. Antes de entrar en el asunto de
+este capítulo, preciso es que hagamos algunas observaciones preliminares, para demostrar
+el alcance de la lucha por la existencia sobre la selección natural. Se ha visto en el último
+capítulo que, entre los seres orgánicos en estado natural, hay alguna variabilidad individual. Pero la mera existencia de variabilidad individual y de algunas pocas variedades
+bien marcadas, aunque es necesaria como fundamento para nuestro trabajo, nos ayuda
+muy poco a comprender cómo brotan de la naturaleza las especies,
+Pero, ¿cómo -se preguntará- sucede que las variedades que hemos llamado especies incipientes llegan a convertirse, por último, en especies legítimas y distintas, que en la mayor parte de los casos se diferencian de la misma especie? ¿Cómo nacen esos grupos de
+especies que constituyen los llamados géneros distintos y que se diferencian unos de otros
+más que las especies del mismo género? Todos estos resultados son consecuencia de la
+lucha por la existencia. Debido a esta, las variaciones, por pequeñas que sean, y cualquiera que sea el origen del que provengan, si en algo son provechosas a los individuos de
+una especie en sus relaciones infinitamente complejas con otros seres orgánicos y con sus
+condiciones físicas de vida, tenderán a la conservación de dichos individuos, y serán generalmente heredadas por la descendencia. De este modo tendrán también mayor probabilidad de sobrevivir, pues de los muchos individuos de una misma especie que nacen periódicamente, sólo un reducido número puede conseguir este privilegio. Hemos llamado
+al principio por el cual se conserva toda variación pequeña, cuando es útil, selección natural, con el fin de hacer ver su relación con la fac ultad de selección del hombre. Hemos
+visto que el hombre puede producir por la selección grandes y positivos resultados y
+adaptar seres orgánicos a usos propios, acumulando variaciones pequeñas pero útiles, que
+recibe de manos de la naturaleza.
+EL TÉRMINO "LUCHA POR LA EXISTENCIA" SE EMPLEA EN SENTIDO
+AMPLIO. Debemos advertir ante todo, que usamos esta expresión en sentido amplio y
+metafórico, el cual incluye la dependencia de un ser respecto de otro, y lo que es más importante, incluye no solamente la vida del individuo, sino también el éxito al dejar progenie.
+Dos animales caninos, en tiempo de hambre, luchan mutuamente por conseguir el alimento que necesitan; pero la planta que nace en los linderos del desierto lucha por la
+existencia contra la sequía, aunque con más propiedad se diría que depende de la humedad. De una planta que produce anualmente mil semillas, de las cuales solamente una, por
+término medio, llega a la madurez, puede decirse con más exactitud que lucha con las
+plantas de la misma clase y con las otras que ya ocupaban el terreno en que ella se leva nta. El muérdago depende del manzano y de otros pocos árboles, pero solamente en sent ido muy artificial puede decirse que lucha con estos árboles, porque si en el mismo árbol
+crecen muchos de estos parásitos, el árbol languidece y muere. Pero de algunos muérdagos que producen semillas y que crecen juntamente en la misma rama puede decirse con
+
+más razón que luchan entre sí. Y como el muérdago es diseminado por los pájaros, de
+estos depende su existencia, pudiendo metafóricamente decirse que luchan contra otras
+plantas fructíferas, para tentar a los pájaros a que los consuman y que de este modo esparzan su semilla. En estos diversos sentidos, en que se funden los unos en los otros,
+creemos conveniente usar el término general "lucha por la existencia".
+RAZÓN GEOMÉTRICA DEL CRECIMIENTO. Luchar por la existencia es inevitable
+consecuencia de la elevada proporción en que tienden a aumentarse todos los seres orgánicos. Todo ser que durante el tiempo natural de su vida produce varios huevos o semillas, necesita sufrir destrucción durante algún período de su vida y durante alguna estación o en alguno que otro año, porque de otro modo, por el principio del aumento geométrico llegaría pronto su número a ser tan desordenadamente grande, que no habría país
+capaz de soportarlo. De aquí que, como se producen más individuos de los que es posible
+que sobrevivan, tiene que haber forzosamente en todos los casos lucha por la existencia,
+ya sea del individuo con otro de la misma especie o con los de especies distintas, o con
+las condiciones físicas de la vida. Esta es la doctrina de Malthus aplicada con múltiple
+fuerza al conjunto de los reinos animal y vegetal, porque en este caso no hay aumento
+artificial de alimento y limitación prudente de enlaces de los dos sexos. Aunque en la actualidad algunas especies aumenten en número, con más o menos rapidez, todas no pueden hacerlo así, porque no cabrían en el mundo.
+Esta regla no tiene excepción, porque todo ser orgánico se aume nta naturalmente en tan
+alta proporción que, si no se lo destruyera pronto, la tierra estaría cubierta por la progenie
+de una sola pareja. Aun el hombre, que es lento para reproducirse, se duplica en veinticinco años, y en esta proporción, en menos de mil años su descendencia no tendría literalmente sitio en el mundo para estar de pie.
+Casi toda planta silvestre en pleno desarrollo produce anualmente semilla, y entre los
+animales hay poquísimos que no se aparean todos los años. Este hecho nos hace asegurar
+con confianza que todos los animales y plantas tienden a aumentar en proporción geométrica, que todos se reproducirían rápidamente en toda estación en la que de cualquier modo pudiesen existir, y que es menester que dicha tendencia geométrica de crecimiento sea
+detenida por la destrucción, en algún período de la vida.
+Al mirar la naturaleza es necesario no olvidar que cada ser orgánico está luchando con
+todos sus esfuerzos para aumentar su número; que cada uno vive merced a la lucha en
+algún período de su vida; que la destrucción severa cae inevitablemente, tanto sobre el
+joven como sobre el viejo, durante cada generación o con intervalos que se repiten. Aligérese un obstáculo cualquiera, mitíguese la destrucción por poca que sea, y el número de
+las especies crecerá casi instantáneamente hasta alcanzar una suma que no podrá menos
+que sorprendernos.
+NATURALEZA DE LOS OBSTÁCULOS AL AUMENTO. La cantidad de alimento
+para cada especie da naturalmente el límite extremo al que puede llegar en su crecimiento; pero con mucha frecuencia no determina el número medio de una especie el alimento
+que pueda obtener, sino el que sirva o no de presa a otros animales.
+El clima desempeña también un papel importante en la determinación del término medio del número de una especie, y parece ser que de todos los obstáculos, los que más
+efectos causan son las estaciones periódicas de frío o de sequedad extremas. La acción
+
+del clima obra principalmente reduciendo el alimento, lo que causa la lucha más severa
+entre los individuos, ya sea de la misma, como de distintas especies que usan la misma
+alimentación. Más aun cuando el clima obra directamente, por ejemplo, cuando reinan
+intensos fríos, los individuos son menos vigorosos, y por consiguiente, los que menos
+alimento tienen al avanzar el invierno son los que más sufren. Cada especie, aun en el
+sitio en que más abunda, sufre una constante y enorme destrucción en algún período de su
+existencia, a causa de los enemigos que compiten por la zona y el sustento. De modo que
+si estos enemigos o competidores son favorecidos en grado íntimo por cualquier ligero
+cambio de clima, aumentan en número, y como cada área está ya completamente cubierta
+de habitantes, preciso es que las otras especies disminuyan.
+Cuando una especie, por efecto de circunsta ncias muy favorables, aumenta desordenadamente su número en un pequeño trecho de terreno, se producen las epidemias. Así ocurre generalmente con nuestros animales de caza, porque este obstáculo limita su número
+independientemente de la lucha por la existencia.
+LAS RELACIONES COMPLEJAS DE LOS ANIMALES Y PLANTAS ENTRE SÍ,
+LIMITA EN LA LUCHA POR LA EXISTENCIA. Muchos casos se registran que demuestran cuán complejos e inesperados son los obstáculos y relaciones existentes entre
+los seres orgánicos que tienen que luchar juntos en un mismo país; pero aquí sólo daremos un ejemplo, que, aunque sencillo, nos interesa que se conozca. En Staffordshire, en
+la finca de uno de nuestros parientes, contábamos con grandes medios de investigación y
+dimos con un gran brezal, estéril en extremo, que nunca había sido tocado por la mano
+del hombre, aunque unos cuantos centenares de terreno exactamente igual habían sido
+cercados veinticinco años 'antes para ser plantados de pinos. El cambio en la vegetación
+natural de la parte plantada del páramo fue notabilísimo, y mayor del que generalmente se
+ve al pasar de un terreno a otro completamente distinto. Pues bien: no sólo el número
+proporcional de las plantas del brezal había cambiado por completo, sino que dos especies de plantas, no incluyendo entre ellas hierbas ni cárices, florecían en las plantaciones,
+y en vano se las hubiera buscado en el terreno baldío. El efecto sobre los insectos debió
+haber sido aún mayor, pues eran muy comunes en la parte plant ada seis clases de pájaros
+insectívoros que no se veían en la inculta, frecuentada por dos o tres clases distintas de
+los mismos.
+Vemos también, por ejemplo, que el ganado determina absolutamente la existencia del
+pino, así como en algunas partes del mundo los insectos determinan la existencia del ganado.
+LA LUCHA POR LA EXISTENCIA ENTRE INDIVIDUOS Y VARIEDADES DE
+LA MISMA ESPECIE ES LA MÁS ENCARNIZADA. Como las especies del mismo
+género suelen tener, aunque no invariablemente, mucha semejanza en hábitos, constitución y siempre en estructura, la lucha será generalmente más severa entre ellas si llegan a
+estar en competencia unas con otras, que si se trata de especies de géneros distintos. Lo
+vemos en la extensión recientemente tomada en algunas partes de los Estados Unidos por
+una especie de golondrina que ha causado la disminución de otra especie, y en el reciente
+crecimiento del tordo en algunas localidades de Escocia, causando la disminución del
+zorzal. Podríamos ver la razón de la mayor severidad de la lucha entre formas próximas
+que ocupan más o menos el mismo lugar en la economía de la naturaleza; pero probable-
+
+mente en ningún caso nos sería permitido decir precisamente por qué una especie fue
+vencedora en la gran batalla de la vida.
+Sin embargo, se puede deducir que la estructura de todo ser orgánico está relacionada
+de la manera más esencial, aunque a menudo oculta, con la de todos los demás seres orgánicos con los que entra en comp etencia a causa de los alimentos o residencia, o los que
+tiene que evitar, o a los que debe buscar para convertirlos en su presa.
+Todo lo que podemos hacer es conservar constantemente la idea de que todo ser orgánico se esfuerza por aumentar su proporción geométrica, y que en algún período de su
+vida, durante alguna estación del año, durante cada generación o con intervalos, tiene que
+luchar por la vida y sufrir una gran destrucción. Cuando reflexionamos acerca de esta lucha, nos podemos consolar con la plena creencia de que la guerra de la nat uraleza no es
+incesante, de que no se siente el miedo, de que la muerte es generalmente pronta, y de
+que los seres vigorosos, saludables y felices sobreviven y se multiplican.
+
+Capítulo IV
+La selección natural o la supervivencia de los más aptos
+SELECCIÓN NATURAL. No podemos dudar que los individuos que tengan alguna
+ventaja sobre los demás, por pequeña que esta sea, tendrán las mayores probabilidades de
+sobrevivir y de reproducir su especie. También podemos estar seguros de que cua lquier
+variación en el más pequeño grado perjudicial sería rígidamente destruida. Esta cons ervación de las variaciones y diferencias individuales favorables, y la destrucción de aquellas
+que son nocivas, es lo que hemos llamado selección natural o supervivencia de los más
+aptos. Las variaciones que no son útiles ni perjudiciales no son afectadas por la selección
+natural, quedando como elemento fluctuante, como vemos en ciertas especies polimorfas,
+o tornándose fijas, según la naturaleza del organismo y la de las condiciones que lo rodean.
+Tenemos razones para creer, según se demostró en el primer capítulo, que los cambios
+en las condiciones peculiares de la vida originan tendencia a mayor variabilidad y, en los
+casos que hemos citado, se ve que han cambiado las condiciones, lo cual sería manifiestamente favorable para la selección natural, por otorgarnos una probabilidad más de que
+ocurran variaciones aprovechables, ya que cuando estas no tienen lugar, la selección natural nada puede hacer. Nunca se olvide de que en el término variaciones van incluidas
+las meras diferencias ind ividuales; y como el hombre puede producir grandes resultados
+en los animales y plantas domésticas, al acumular en una dirección dada diferencias individuales, del mismo modo podría hacerlo la selección natural, aunque mucho más fácilmente que nosotros, puesto que se le concede tiempo incomparablemente mayor para su
+obra.
+La naturaleza puede actuar sobre cada órgano interno, en cada sombra de diferencia
+constitucional, en la totalidad de la maquinaria completa de la vida. El hombre escoge sin
+más miras que su propio bien, Sentras que la naturaleza busca solamente á bien del ser a
+quien atiende. Todo carácter selecto es plenamente formado por ella, como lo implica el
+hecho de haber sido escogido.
+
+Puede decirse metafóricamente que la selección natural está haciendo diariamente, y
+hasta por horas, en todo el mundo, el escrutinio de las variaciones más pequeñas; desechando las que son malas, conservando y acumulando las que son buenas, trabajando
+insensible y silenciosamente donde y cuando se presenta una oportunidad, en el mejoramiento de todo ser orgánico en relación con sus condiciones orgánicas e inorgánicas de
+vida. No vemos estos pequeños y progresivos cambios hasta que la mano del tiempo marca el sello de las edades, y aun entonces tan imperfecta es nuestra vista para alcanzar las
+épocas geológicas remotas, que lo único que vemos es que no son hoy las formas de vida
+lo que en otro tiempo fueron.
+La selección natural puede modificar la larva de un insecto y adaptarla a una porción de
+contingencias completamente distintas de las que conciernen al insecto ya maduro, y estas modificaciones pueden afectar por correlación la estructura del adulto. Así también,
+por el contrario, las modificaciones de este pueden afectar la estructura de la larva; pero
+en todos los casos, la selección na tural asegurará que dichas modificaciones no sean en
+manera alguna nocivas, ya que si lo fueran la especie se extinguiría.
+La selección natural modificará la conformación del hijo con relación al padre y del
+padre con relación al hijo. En los animales gregarios adaptará la estructura de cada individuo al provecho de toda la comunidad, si esta puede ganar con el cambio selecto; pero
+la selección natural no puede modificar la estructura de una especie, sin darle ninguna
+ventaja, para provecho de otra especie; y aunque existan en las obras de historia natural
+manifestaciones que tienden a echar por tierra nuestro aserto, no hemos podido obtener
+en la práctica un solo caso que haya dado resultado.
+SELECCIÓN SEXUAL. Esta forma de selección depende de la lucha entre individuos
+de un mismo sexo, y generalmente entre los del masculino, para llegar a la posesión de
+las hembras. El resultado para el competidor vencido no es la muerte, sino poca o ninguna progenie, siendo por lo tanto la selección sexual menos rigurosa que la selección natural. Generalmente, los machos más vigorosos o aquellos que están mejor preparados para
+ocupar sus puestos en la naturaleza dejarán mayor descendencia; pero en muchos casos,
+la victoria depende no tanto del vigor general como de poseer los seres en cuestión, las
+armas especiales limitadas a los machos. La guerra más severa tiene lugar entre los machos de los animales polígamos, que muy a menudo están provistos de armas especiales,
+y los machos de los animales carnívoros también se presentan bien armados, aunque a
+ellos y a otros pueda darles la selección sexual especiales medios de defensa, como la
+melena al león, la mandíbula de gancho al salmón, pues el escudo puede ser tan importante para la victoria como la espada o la lanza.
+Entre las aves, la contienda es con frecuencia de carácter más pacífico, pues hay gran
+rivalidad entre los machos de muchas especies para atraer a las hembras, por el canto; o
+despliegan hermosos plumajes para verse de la mejor manera posible. También hacen extrañas y grotescas figuras, y luego las hembras espectadoras escogen al compañero que
+más atractivos les ofrece.
+SOBRE EL CRUZAMIENTO DE LOS INDIVIDUOS. Todos los animales vertebrados, todos los insectos y algunos otros grandes grupos de animales, se aparean para cada
+nacimiento. La investigación moderna ha disminuido mucho el número de los supuestos
+
+hermafroditas; de los verdaderos, un gran número se aparea, es decir, dos individuos se
+unen regularmente para la reproducción, que es todo lo que nos importa.
+En primer lugar, hemos reunido un gran número de casos y hemos hecho muchos experimentos para demostrar, de acuerdo con la opinión casi universal de los criadotes, que en
+los animales y en las plantas el cruzamiento entre diferentes variedades o entre individuos
+de la misma variedad, pero de otra estirpe, da vigor y fecundidad a la descendencia; así
+como, por otra parte, las crías íntimas entre individuos de la misma familia disminuyen
+en vigor y fecundidad. Guiados por estos hechos, sólo nos inclinamos a creer que es ley
+general de la naturaleza que ningún ser orgánico se fertilice a sí mismo durante una perpetuidad de generaciones, sino que es indispensable que de vez en cuando, y quizás con
+largos intervalos, tenga lugar el cruzamiento de un individuo con otro.
+Con la creencia de que esta es una ley de la naturaleza, no podemos, a nuestro juicio,
+entender diferentes y extensas clases de hechos, de otro modo inexplicables. Volvamos
+por un momento a los animales, de los cuales varias especies terrestres son her mafroditas,
+tales como los moluscos de tierra y las lombrices, aunque de todos, estos últimos se aparean. Hasta ahora no hemos encontrado un solo animal de este género que se fecunde a sí
+mismo. Este hecho notable, que tanto contrasta con las plantas terrestres, puede comprenderse por la opinión de que es indispensable el cruzamiento ocasional, porque debido a la
+naturaleza del elemento fertilizador, no hay medios análogos a la acción de los insectos y
+del viento con respecto a las plantas para que se efectúe el cruzamiento entre los animales
+terrestres sin el concurso de dos individuos.
+De los animales acuáticos hay muchos hermafroditas que se fecundan a sí mismos; pero en este caso, las corrientes de agua ofrecen el medio directo para el cruzamiento
+accidental. Después de consultar a una de las más grandes autoridades, el profesor
+Huxley, no hemos podido descubrir un solo animal hermafrodita cuyos órganos de
+reproducción estuviesen tan perfectamente encerrados que pudiese demostrarse ser
+físicamente imposible el acceso desde afuera ni la influencia ocasional del individuo
+distinto. Por mucho tiempo, nos pareció que bajo este punto de vista los cirrípedos
+presentaban un caso de gran dificultad; pero, por una feliz casualidad, hemos podido
+probar que algunas veces se cruzan dos individuos, aunque ambos sean hermafroditas que
+se Debe
+fertilicen
+a sí
+mismos. a la mayor parte de los naturalistas, como extraña anomalía
+haber
+sorprendido
+que, tanto en los animales como en las plantas, algunas especies de la misma fa milia y
+hasta del mismo género, aunque conformándose íntimamente unas con otras en el conjunto de su organización, sean hermafroditas y algunas unisexuales. Pero si de hecho todos
+¡os hermafroditas se cruzan de vez en cuando, la diferencia entre ellos y la s especies unisexuales son muy pequeñas en lo que a esta función hace referencia.
+De estas varias consideraciones y de los muchos hechos especiales que hemos reunido,
+se deduce que en los animales y en las plantas es ley de la naturaleza, muy general, si no
+es universal, el cruzamiento accidental entre individuos distintos.
+CIRCUNSTANCIAS FAVORABLES PARA LA PRODUCCIÓN DE NUEVAS
+FORMAS POR MEDIO DE LA SELECCIÓN NATURAL. Este es un asunto sumamente
+intrincado. Gran cantidad de variabilidad, en cuyo término va n siempre incluidas las diferencias individuales, será evidentemente favorable para el objeto. Un gran número de individuos, por las probabilidades que dan dentro de un período determinado para la apari-
+
+ción de variaciones ventajosas, compensará la menor cantidad de variabilidad en cada
+individuo, siendo, a nuestro juicio, un elemento de gran importancia para el éxito. Aunque la naturaleza concede largos períodos de tiempo para el trabajo de la selección natural, no concede un período indefinido, porque como todos los seres orgánicos se esfuerzan para ocupar todos los sitios en la economía de la naturaleza, si hay una 'especie que
+no se modifique y mejore en 'grado correspondiente con sus competidores será exterminada. Nada puede hacer la ¡selección natural sin que las variaciones `favorables se
+transmitan por herencia, por lo menos a algunos de los descendientes. En la naturaleza,
+dentro de un área limitada, todos los individuos que varíen en buen sentido aunque en
+grados diferentes, tenderán a conservarse. Las variedades intermedias que habiten
+localidades también intermedias a la larga serán suplantadas generalmente por una de las
+variedades adyacentes. El cruzamiento afectará principalmente a aquellos animales que se
+unen para cada nacimiento, que andan muy errantes y que no crían con mucha rapidez.
+El cruzamiento desempeña un papel muy importante en la naturaleza porque conserva a
+los individuos de la misma especie o de la misma variedad fieles y uniformes en carácter.
+Así obrará evidentemente con mucha más eficacia en aquellos animales que se unen para
+cada nacimiento; pero, como ya se ha dicho, tenemos razones para creer que en todos los
+animales y plantas hay cruzamientos ocasionales. Si cambian las condiciones de vida y
+sufre modificación la forma, puede comunicarse la uniformidad de carácter a la modificada descendencia, conservando la selección natural solamente a las variaciones favorables semejantes.
+El aislamiento también es un elemento importante en la modificación de las especies
+por medio de la selección natural. En un área limitada o aislada, si no es muy grande, serán generalmente casi uniformes las condiciones orgánicas e inorgánicas de la vida, de
+modo que la selección natural tenderá a modificar de la misma manera a todos los individuos que varíen en la misma especie. Así se impedirá también el cruzamiento con los
+habitantes de las localidades próximas.
+El mero transcurso del tiempo no influye en pro o en contra de la selección natural, y
+decimos esto porque erróneamente se ha afirmado que dába mos a este elemento gran importancia en la modificación de las especies, como si todas las formas de la vida estuvieran necesariamente sufriendo cambios por ley innata. El tiempo es solamente importante,
+y en este concepto su importancia es grande, porque aumenta las probabilidades de que
+surjan variaciones ventajosas, que lleguen a ser escogidas, acumuladas y fijadas, así como
+tiende a aumentar la acción directa de las condicion es físicas de vida con relación a la
+constitución de cada organismo.
+Finalmente, nos atrevemos a deducir que; aunque las regiones pequeñas y aisladas han
+sido en algunos conceptos altamente favorables para la producción de nuevas especies, el
+curso de las modificaciones habrá sido por lo general más rápido en regiones grandes, y
+lo que es más importante, que las nuevas formas producidas en áreas extensas, y victoriosas sobre muchos competidores, serán las que más se extiendan y den lugar a mayor número de variedades y especies nuevas, desempeñando así el papel más importante en la
+historia del cambio del mundo inorgánico.
+De acuerdo con esta idea, en una isla pequeña habrá sido menos severa la lucha por la
+existencia y habrá habido menos modificaciones y menos exterminio. Todos los depósi-
+
+tos de agua dulce sumados constituyen un área pequeña, comparada con la del mar o con
+la de la tierra. En consecuencia, la competencia en las producciones de agua dulce habrá
+sido menos rigurosa que en otras partes; nuevas formas se habrán producido más lent amente y las formas antiguas se habrán exterminado aún con más lentitud.
+En conclusión, diremos que para las producciones terrestres, toda región continental
+grande que haya pasado por muchas oscilaciones de nivel habrá sido la más favorable a la
+producción de muchas formas nuevas de vida, propias para durar por largo tiempo y para
+extenderse considerablemente.
+Mientras el área existiese como continente, los habitantes habrán sido numerosos en
+individuos y clases, y habrán estado sujetos a una rigurosa competencia. Y cuando se
+haya convertido el continente por inmersión en grandes islas separadas, todavía habrán
+existido muchos individuos de la misma especie en cada isla. El cruzamiento en los confines del dominio de cada especie nueva habrá quedado interrumpido; y después de cambios físicos de cualquier clase, la emigración no habrá sido posible, de modo que los lugares nuevos en la conformación de cada isla habrán tenido que ser ocupados por modificaciones de los antiguos habitantes, existiendo tiempo suficiente para que se modifiquen
+y perfeccionen las variedades. Siempre que por alguna nueva elevación del terreno las
+islas volviesen a ser región continental, habría una competencia rigurosísima, podrían extenderse las variedades más favorables o mejoradas, se extinguirían muchas de las formas
+menos me joradas y otra vez cambiaría la proporción relativa del número de los varios
+habitantes en el continente reunido, abriéndose otra vez ampliamente para que la selección natural mejorara todavía más a los habitantes, produciendo de esta manera nuevas
+especies.
+Admitimos por completo que la selección natural obra generalmente con lentitud extrema, y que puede funcionar solamente cuando existen lugares en la economía natural de
+un distrito que pueden ser mejor ocupados por la modificación de algunos de sus habitantes existentes, y cuya existencia depende con frecuencia de cambios físicos que por lo
+general se verifican de un modo muy lento, siendo imposible la inmigración de formas
+mejor adaptadas. Como algunos pocos de los habitantes antiguos se modifiquen, las relaciones mutuas de los otros se perturbarán, creando así lugares aptos para ser ocupados por
+formas mejor adaptadas, lo cual, sin embargo, se irá verificando muy lentamente. Aunque
+todos los individuos de la misma especie se diferenciasen entre sí en algún pequeño grado, pasaría mucho tiempo antes de que pudiesen ocurrir diferencias ventajosas en varias
+partes de la organización. El resultado se retardaría a menudo por el cruzamiento libre, y
+aunque muchos opondrán que estas diversas causas son más que suficientes para neutralizar el poder de la selección natural, lejos de concederlo, creemos que la selección natural
+obrará generalmente con mucha lentitud, sólo por grandes intervalos de tiempo y en pocos habitantes de la misma región, así como no dudamos que estos resultados lentos e
+intermitentes concuerdan muy bien con lo que la geología nos dice de la manera y velocidad con que han cambiado los habitantes del mundo.
+Por lento que sea el procedimiento de la selección, si el hombre débil puede hacer mucho por medio de la selección artificial, no alcanzarnos a ver el límite del total de cambios, de la belleza y la complejidad de las muchas coadaptaciones, ya sea con todos los
+seres orgánicos o con sus condiciones físicas de vida, y que pueden haberse efectuado en
+
+el largo curso de los tiempos por el poder de selección de la naturaleza, esto es, por la supervivencia de los más aptos.
+EXTINCIÓN CAUSADA POR LA SELECCIÓN NATURAL. La selección natural
+obra solamente por medio de la conservación de las variaciones que son en algún conce pto ventajosas. Podemos comprender que cualquier forma representada por pocos individuos correrá mucho riesgo de quedar completamente extinguida durante grandes fluctuaciones en la naturaleza de las estaciones o por crecimiento temporal en el número de los
+enemigos naturales. Pero podemos ir más lejos todavía, porque cuando se producen nuevas formas, a menos que admitamos que las específicas puedan seguir aumentando indefinidamente en número, tienen que extinguirse muchas ya antiguas, y como claramente la
+geología nos dice que el número de las formas específicas no ha crecido indefinidamente,
+ahora sólo intentaremos demostrar por qué el número de las especies en el mundo no se
+ha hecho inconmensurablemente grande.
+Debido a que las especies raras se modifican o mejoran con menor rapidez, son derrotadas en la lucha por la existencia por los descendientes modificados y mejorados de las
+especies más comunes.
+Por estas diferentes consideraciones creemos inevitable que, al formarse en el curso del
+tiempo nuevas especies por medio de la selección natural, se hacen otras cada vez más
+raras hasta que finalmente se extinguen.
+Podemos suponer que en un período remoto de la historia, los hombres de una nación o
+localidad necesitaban caballos más veloces, mientras que los de otras necesitaban caballos más fuertes y de más cuerpo. Al principio serían muy pequeñas las diferencias; pero
+con el correr del tiempo, por la continuada selección de los caballos más veloces en un
+caso y de los más fuertes en otro, se harían las diferencias bien marcadas y se anotarían
+los resultados como formando dos subcastas.
+Al cabo de siglos, estas dos subcastas se convertirían en castas bien establecidas y distintas; y al hacerse mayores las diferencias, los animales inferiores con caracteres intermedios que no fueran ni muy veloces ni muy fuertes no serían empleados para la cría, y
+de este modo tenderían a desaparecer. Aquí, vemos en las producciones del hombre lo
+que puede llamarse principio de divergencia, causando diferencias al principio escasamente apreciables, pero siempre crecientes, así como a las crías diferenciarse en carácter
+tanto entre sí como con el tronco común.
+EFECTOS PROBABLES DE LA ACCIÓN DE LA SELECCIÓN NATURAL POR
+MEDIO DE LA DIVERGENCIA DE CARÁCTER Y DE LA EXTINCIÓN SOBRE
+LOS DESCENDIENTES DE ANTECESORES COMUNES. Los descendientes modificados de cualquier especie prosperarán mejor cuando más diversificados lleguen a ser en
+estructura, estando así en disposición de apropiarse lugares ocupados por otros seres.
+Veamos ahora cómo este principio del beneficio obtenido por la divergencia de carácter
+tiende a obrar alternando con los principios de la selección natural y de la extinción.
+Por medio del diagrama podremos comprender este problema, que es harto complicado.
+Supongamos que están representadas desde A hasta L las especies de un; gran género en
+su propio país, se supone: que estas se parecen las unas a las otras en grados desiguales,
+que es lo que sucede generalmente en la naturaleza, y se indica en el diagrama por la co-
+
+locación de letras, a distancias desiguales. Ahora bien; sea A: una especie común, extensamente difundida y variable, perteneciente a un género grande de su propio país. Las
+líneas de puntos que podrían formar la ramificación y divergencias con tamaños desiguales procedentes de A pueden representar su variable descendencia. Se supone que las variaciones son en extremo ligeras, pero de naturaleza diversificada, y que todas no aparecen simultáneamente, sino a menudo después che largos intervalos, sin durar períodos
+iguales. Sólo se conservan o se escogen naturalmente aquellas variaciones que de algún
+modo son ventajosas; aquí entra en juego la importancia del principio de ventaja que deriva de la divergencia de carácter, porque esta generalment e conducirá a que las variaciones más diferentes o divergentes (representadas por líneas de puntos exteriores) se conserven y acumulen por la selección natural. Cuando una línea de puntos llega a una de las
+horizontales, marcada por una letra pequeña con números, se supone que se ha acumulado la cantidad suficiente de variación como para formar una variedad bien pronunciada y
+digna de ser consignada como tal en cualquier trabajo sistemático. Cada uno de los intervalos existentes entre las líneas horizontales del diagrama puede representar mil o más
+generaciones, y después de este período de tiempo se supone que la especie A ha producido dos variedades perfectamente marcadas, a saber: al y ml. Estas dos variedades estarán aún expuestas a las mismas condiciones que hicieron variables a sus progenitores, y la
+tendencia a la variabilidad será en sí misma hereditaria; por consiguiente, tenderán
+igualmente a variar por lo común, casi del mismo modo en que lo hicieron sus padres y
+siendo sólo dos formas ligeramente modificadas, tenderán a heredar aquellas ventajas que
+hicieron a su padre A más prolífico que a la mayor parte de los otros habitantes del mismo país. Además, también heredarán aquellas ventajas más generales que hicieron que el
+género al que pertenecía la especie madre fuera grande en el país natal. Todas estas son
+circunstancias favorables a la producción de nuevas variedades.
+Entonces, si estas dos formas son variables, se conservarán generalmente durante las
+primeras mil generaciones como las más divergentes de sus variaciones, y después de este intervalo supondríamos en el diagrama que la variedad al ha producido la variedad a2,
+que por el principio de divergencia se diferenciará más de A que de la variedad a1. Se
+supone que la variedad m1 ha producido dos variedades, m2 y s2, que se diferencian la
+una de la otra, y más considerablemente aún, de su padre común A. Podemos continuar el
+procedimiento por pasos semejantes en cualquier exte nsión de tiempo. Algunas de las
+variedades después de cada mil generac iones producen solamente una variedad, pero en
+condición cada vez más modificada, así como otras producen dos o tres variedades y
+otras dejan de producirlas en absoluto. De este modo, las variedades o descendientes modificados del padre común A irán generalmente aumentando en número y divergiendo en
+carácter. En el diagrama se podría representar el procedimiento hasta la generación diez
+mil, y en forma condensada y simplificada hasta la generación catorce mil.
+Después de diez mil generaciones se supone que la especie A ha producido tres formas,
+a10, f10, ml0, las cuales, por haber divergido en carácter durante las generaciones sucesivas, habrán llegado a diferenciarse mucho, aunque quizá tan desigualmente unas de otras
+como de su padre común. Si suponemos que es excesivamente pequeño el cambio entre
+cada línea horizontal de nuestro diagrama, estas tres formas serán todavía tan sólo variedades bien marcadas; pero basta suponer que son más numerosos o mayores en cantidad
+los pasos en el procedimiento de modificación, para convertir primero estas tres formas
+en especies dudosas, y por último, en especies bien definidas. Así el diagrama nos ense-
+
+ñaría los pasos por los cuales las diferencias pequeñas que distingue a las variedades van
+creciendo hasta constituir las diferencias más grandes que distinguen a las especies. Continuando el mismo procedimiento por número mayor de generaciones, como se ve en el
+diagrama de una manera condensada y simplificada, tenemos ocho especies marcadas con
+las letras que van de a14 a m11, todas descendientes de A. Así creemos que se multiplican las especies y se forman los géneros.
+
+Es probable que tratándose de géneros grandes varíe más de una especie; por esto en el
+diagrama hemos supuesto que una segunda especie, ha producido, por análogos pasos,
+después de diez mil generaciones, tanto dos variedades bien marcadas, w10 y z10, como
+dos especies, según la cantidad de cambio que se suponga estar representado entre las líneas horizontales. Después de catorce mil generaciones se supone que han sido produc idas seis nuevas especies, marcadas por las letras de n14 a z14. En cualquier género las
+especies, dado que son muy diferentes entre sí en carácter, tenderán generalmente a pro-
+
+ducir el mayor número de descendientes modificados. Estos tendrán las mayores probabilidades de apoderarse de nuevos lugares completamente diferentes en la economía de la
+naturaleza, y por eso en el diagrama hemos escogido la especie extrema A, y la casi extrema I como las más variadas y que han dado origen a nuevas variedades y especies. Las
+otras nueve especies, marcadas con letras mayúsculas, de nuestro género original, pueden
+continuar transmitiendo descendientes sin alteración durante períodos largos, aunque desiguales, y esto se representa en el diagrama-por líneas de puntos prolongadas desigualmente hacia arriba.
+Pero durante el procedimiento de modificación representado en el diagrama, otro de
+nuestros principios, a saber, el de la extinción, habrá desempeñado un importante papel.
+En efecto, como en cada país completamente poblado la selección natural obra porque la
+forma selecta tiene alguna ventaja sobre las otras en la lucha por la existencia, habrá una
+tendencia constante en los descendientes mejorados de cualquier especie, a suplantar y
+exterminar, en cada período de la sucesión, a sus predecesores y a su progenitor original.
+Porque hay que recordar que la competencia será generalmente más vigorosa entre aquellas formas que estén relacionadas entre sí por hábitos, constitución y estructura. De aquí
+que todos las formas intermedias entre los primeros estados y los últimos, esto es, entre
+los estados de una misma especie menos mejorada y más mejorada, como también la
+misma especie madre original, tenderán generalmente a extinguirse, lo cual probablemente sucederá en muchas líneas colaterales enteras de sucesión, que serán conquistadas por
+otras posteriores y adelantadas. Si, no obstante, la descendencia modificada de una especie llega a un país distinto, o se adapta prontamente a algún paraje nuevo, en el cual la
+descendencia y el progenitor no entren en competencia, ambos pueden continuar existiendo.
+Si se supone entonces que nuestro diagrama representa una suma considerable de modificación, la especie A y todas las primeras variedades se habrían extinguido, siendo reemplazadas por ocho especies nuevas, desde a14 hasta m14, y la especie I por seis especies nuevas, de n14 a z14.
+Pero podemos ir todavía más lejos en nuestro estudio. En efecto, se ha supuesto que las
+especies originales de nuestro género se parecían entre sí en grados desiguales, como sucede generalmente en la naturaleza. Ahora bien; la especie A está relacionada más de cerca con B, C y D que con las otras especies, así como la especie I con la G, H, K y L más
+que con las otras. Se supuso también que estas dos especies A e I eran muy comunes y
+que estaban tan extensamente difundidas, que debieron en su origen haber tenido alguna
+ventaja sobre la mayor parte de las otras especies del género. Sus descendientes modificados, que son catorce en la generación catorce mil, habrán heredado probablemente algunas de las mismas ventajas; habrán sido también modificados, mejorados en manera
+diversa en cada período de sucesión, de modo que habrán llegado a adaptarse a muchos
+lugares relacionados entre sí en la econo mía natural de su país. Parece, por lo tanto, extremadamente probable que hayan ocupado los lugares, y por consiguiente, exterminado
+no sólo a sus padres A e I, sino de igual modo a alguna de las especies originales que estaban más estrechamente relacionadas con sus progenitores. Por esta razón, muy pocas de
+las especies primitivas habrán transmitido descendencia a la generación catorce mil, y
+podemos suponer que solamente una, F, de las dos especies E y F, menos íntimamente
+
+unidas a las otras nueve especies originales, ha transmitido descendientes hasta este último período de sucesión.
+Las nuevas especies de nuestro diagrama, descendientes de las once especies dichas,
+serán ahora quince, y por causa de la tendencia divergente de la selección natural, la suma
+extrema de diferencia en carácter entre las especies a14 y z14 será mucho mayor de la
+existente entre las más distintas de las especies originales. Las nuevas especies, además,
+estarán unidas unas con otras en modo enteramente diferente, y de las ocho descendientes
+de A, las tres marcadas con a14, q14, p14 estarán inmediatamente relacionadas por ser
+ramificaciones recientes de a10, así como b14 y f14, por haberse separado en un período
+anterior de a5, serán en algún grado distintas de las tres especies primero nombradas. Por
+último, o14, e14 y m14 estarán inmediatamente relacionadas entre sí; pero por haber divergido desde el principio del proceso de modificación, serán muy diferentes de las otras
+cinco especies, constituyendo un subgénero o género distinto.
+Los seis descendientes de I formarán dos subgéneros o dos géneros; pero como la especie original I se diferenciaba mucho de A, siendo casi los dos extremos del género original, los seis descendientes de I, sin atender más que a la herencia, se diferenciarán cons iderablemente de los ocho descendientes de A, además, se supone que los dos grupos han
+seguido divergiendo en direcciones diferentes. Las especies intermedias (y esta consideración es muy importante) que enlazaban las especies originales A e I, se han extinguido
+todas excepto F y no han dejado descendencia. De aquí que habrá que clasificar como
+géneros muy distintos, y aun como distintas subfamilias, a las seis especies nuevas derivadas de I y a las ocho descendientes de A.
+Así es, a nuestro juicio, como se producen dos o más géneros por descendencias con
+modificación de dos o más especies del mismo género. Y se supone que las dos o más
+especies madres descienden de una sola perteneciente a un género anterior. En nuestro
+diagrama esto estaría indicado por las líneas interrumpidas que hay debajo de las letras
+mayúsculas que convergen en subramas hacia un solo punto interior, el cual representa
+una especie supuesta, progenitora de nuestros diversos géneros y subgéneros nuevos.
+En el diagrama se ha supuesto hasta ahora que cada línea horizontal representa mil generaciones: pero, como es fácil concebir, cada una puede representar un millón de ellas, y
+aun más, también una sección de las capas sucesivas de la corteza terrestre que incluyen
+restos extinguidos.
+Hemos visto que en cada país las especies que pertenecen a los géneros mayores son
+las que más frecuentemente presentan variedades o especies incipientes, y en verdad, debía esperarse que así sucediera; porque como la selección natural obra por medio de una
+forma que tiene alguna ventaja sobre otras en la lucha por la existencia, obrará principalmente en aquellas que ya tienen alguna ventaja, y la magnitud de cualquier grupo demuestra que sus especies han heredado de algún antecesor en común cierta ventaja común. Por esto la lucha por la producción de descendientes nuevos y modificados se sostendrá principalmente entre los grupos mayores que tratan de aumentar su número. Un
+grupo grande conquistará poco a poco a otro, reducirá su número, y de este modo disminuirán las probabilidades de ulteriores variaciones y mejoras. Dentro del mismo grupo
+grande, los subgrupos últimos y mejor perfeccionados, por ramificarse y apoderarse de
+muchos lugares nuevos en la economía de la naturaleza, tenderán constantemente a su-
+
+plantar y destruir a los subgrupos primitivos y menos mejorados, hasta que, finalmente,
+desaparezcan los grupos y subgrupos pequeños e interrumpidos. Mirando al porvenir, podemos predecir que los grupos de seres orgánicos que ahora son grandes y triunfantes y
+menos interrumpidos que los otros, esto es, que han pasado por menos extinción, continuarán aumentando durante un período largo. Pero lo que nadie puede predecir es qué
+grupos prevalecerán al fin, porque sabemos que muchos que en otros tiempos se han desarrollado notablemente, hoy han desaparecido. Y escudriñando aún más íntimamente en
+el futuro, podremos ver que, a causa del aumento continuado y fijo de los grupos más
+grandes, una multitud de los más pequeños se extinguirá por completo, sin dejar descendientes modificados. Por consiguiente, de las especies que vivan en un período dado, muy
+pocas serán las que transmitan descendientes a las lontananzas del remoto porvenir.
+Podemos añadir que, según la opinión que considera muy escasas a las especies más
+antiguas que han transmitido descendientes a nuestros días, y que, como todos los descendientes de la misma especie, forman clase, podemos entender la existencia de tan pocas clases en cada división principal de los reinos animal y vegetal. Aunque pocas de las
+especies más antiguas hayan dejado descendientes modificados en los lejanos períodos
+geológicos, la tierra puede haber estado casi tan bien poblada como ahora lo está de especies de muchos géneros, familias, órdenes y razas.
+SOBRE EL GRADO EN QUE TIENDE A AVANZAR LA ORGANIZACIÓN. La selección natural obra exclusivamente conservando las variaciones que son ventajosas en
+las condiciones orgánicas e inorgánicas a las que toda criatura está expuesta en todos los
+períodos de la vida. Su último resultado es que cada una tienda a mejorar cada vez más en
+relación a sus condiciones. Este mejoramiento conduce inevitablemente al adelanto gradual de la organización del mayor número de los seres vivos en todo el mundo. Pero aquí
+entramos en asunto harto intrincado, porque los naturalistas no han definido a satisfacción
+de todos lo que se entiende por progreso en la organización. Entre los vertebrados es claro que se trata del grado de inteligencia y de la aproximación de su estructura a la del
+hombre. Podría pensarse que la cantidad de ca mbios por los que pasan las diversas partes
+y órganos en su desarrollo desde el embrión a la madurez, bastaría como tipo de comparación; pero hay casos, y entre ellos el de ciertos crustáceos parásitos, en los cuales varias
+partes de la estructura llegan a ser menos perfectas. El criterio más extensamente aplicable y que parece preferible en esta materia es el de von Baer, que establece la suma de
+diferencia de las partes del mismo ser orgánico (en estado adulto, añadiríamos nosotros),
+y su especialidad para funciones diferentes; o como Milne Edwars se expresaría, el perfeccionamiento de la división del trabajo fisiológico.
+Si tomamos como criterio de la organización más elevada la suma de diferencias y de
+especialidades de los diversos órganos en cada ser adulto (lo cual incluirá el adelanto del
+cerebro para los fines intelectuales), la selección natural nos lleva clara mente hacia él,
+porque todos los fisiólogos admiten que las especialidades de los órganos, dado que en
+este estado llenan mejor sus funciones, son ventajosas para cada ser, y de ahí que la ac umulación de variaciones que tienden hacia la especialidad esté dentro del campo propio
+de la selección natural. Por otra parte, teniendo presente que todos los seres orgánicos se
+esfuerzan en aumentar en gran proporción, y por apoderarse de todo lugar desocupado o
+menos bien ocupado en la economía de la naturaleza, podemos entender que es completamente posible para la selección natural adaptar gradualmente a un ser a una situación
+
+dada, en la cual serían superfluos o inútiles algunos órganos, en cuyo caso habría retroceso en la escala de la organización.
+Pero puede objetarse que si todos los seres orgánicos tienden así a elevarse en la escala,
+¿cómo es que en todo el mundo existe todavía una multitud de formas inferiores? Y,
+¿cómo es que en cada gran clase hay algunas formas más desarrolladas que otras? ¿Por
+qué las primeras no han suplantado ni exterminado a las otras en todas partes?
+Lamarck se inclinó a suponer que continuamente están produciéndose formas nuevas y
+simples por generación espontánea. La ciencia no ha probado todavía la verdad de esta
+creencia. En nuestra teoría no ofrece dificultad la existencia continuada de organismos
+inferiores, porque la selección natural o supervivencia de los más aptos, no implica necesariamente desarrollo progresivo, sino que solamente aprovecha la ventaja de aquellas
+variaciones que surgen y son de utilidad a cada criatura en sus complejas relaciones de
+vida.
+Creemos, finalmente, que muchas formas de organización inferior existen aún en el
+mundo, por varias causas. En algunos casos, porque nunca han surgido variaciones o diferencias individuales de naturaleza favorable para que la selección natural obrara y las
+acumulara. Probablemente en ningú n caso ha bastado el tiempo para acumular la mayor
+suma posible de desarrollo, y en ciertas, aunque en pocas circunstancias, ha habido lo que
+debemos llamar retroceso de organización
+Volviendo la vista a la primera aurora de la vida, cuando todos los seres orgánicos, según creemos, presentaban la estructura más simple, se ha preguntado: ¿cómo nacieron los
+primeros pasos en el adelanto o diferencias de las partes? Mr. Herbert Spencer probablemente contestaría que tan pronto como el simple organismo unicelular llegó por crecimiento o división a ser un compuesto de diversas células o se unió a cualquier superficie
+de apoyo, entraría en juego su ley de que "las unidades análogas de un orden cualquiera
+se diferencian proporcionalmente a medida que sus relaciones con fuerzas incidentes se
+hacen diferentes". Pero como no tenemos hechos que nos guíen, la especulación sobre el
+asunto es casi inútil. Es, sin embargo, un gran error suponer que no habría lucha por la
+existencia, y en consecuencia selección natural, hasta que hubieran sido producidas muchas formas, puesto que las variaciones en una sola especie que habite una región aislada
+podrían ser ventajosas, y por ende, modificada la masa entera de individuos.
+Finalmente, bajo condiciones variables de vida, los seres orgánicos presentan diferencias individuales en casi todas las partes de su estructura, y esto no puede disputarse; si
+hay una lucha rigurosa por la existencia debido a la proporción geométrica de aumento en
+alguna época, estación o año, esto tampoco puede disputarse seriamente. Considerando la
+infinita complejidad en las relaciones de todos los seres orgánicos entre sí y con sus condiciones de vida, origen de infinita diversidad de estructura, constitución y hábitos que
+han de ser ventajosos, sería un hecho extraordinario que jamás hubieran ocurrido variaciones útiles para el propio bienestar de cada ser, de la misma manera que han ocurrido
+tantas variaciones útiles para el hombre. Pero si estas ocurren alguna vez para cualquier
+ser orgánico, seguramente los individuos que los posean tendrán las mayores probabilidades de conservarse en la lucha por la existencia; y por el principio de la herencia tenderán a producir descendencia semejantemente caracterizada. A este principio de conservación, o a la supervivencia de los más aptos, hemos llamado selección natural, que cond u-
+
+ce al mejoramiento de cada criatura con relación a sus condiciones orgánicas e inorgánicas de vida, y en consecuencia, en la mayoría de los casos, a lo que pudiera considerarse
+como adelanto en la organización. A pesar de todo, las formas simples e inferiores tendrán una gran duración si están bien adaptadas a sus propias cond iciones de vida.
+La selección natural, de acuerdo con el principio de que las cualidades se heredan en
+edades correspondientes, puede modificar al huevo, a la semilla o al cachorro tan fácilmente como el adulto. Entre muchos animales, la selección sexual habrá prestado su ayuda a la selección ordinaria, asegurando a los machos más vigorosos y mejor adaptados, el
+mayor número de descendientes. La selección sexual dará también caracteres útiles a los
+machos solamente en sus luchas o rivalidades con otros, y estos caracteres serán transmitidos a un sexo solo o a los dos, según la forma de herencia que prevalezca.
+Si la selección natural ha obrado así realmente, para adaptar las varias formas de vida a
+sus diferentes condiciones y estaciones, habrá que juzgarlo por el tenor general y por el
+número de las pruebas dadas en pro y en contra. Pero ya hemos visto cómo ella implica la
+extinción, y la geología claramente declara cuá nto ha hecho la extinción en la historia del
+mundo. La selección natural también conduce a la divergencia de carácter, porque cuanto
+más diverjan los seres orgánicos en estructura, hábitos y constitución, tanto más podrá
+sostenerse un número grande de individuos en la misma región; de lo cual tenemos una
+prueba con sólo mirar a los habitantes de cualquier espacio pequeño y a las producciones
+naturalizadas en tierra extranjera. Por lo tanto, durante la modificación de los descendientes de una especie cualquiera, y durante la incesante lucha de todas las especies para
+hacerse más numerosas, cuanto más diversificados sean los descendientes, tantas más
+probabilidades tendrán de conseguir el triunfo en la batalla por la vida. Y de este modo,
+las diferencias pequeñas que distinguen a las variedades de la misma especie tienden firmemente a aumentarse, hasta que igualan a las diferencias más grandes que hay entre especies del mismo género y aun de géneros distintos.
+Las especies comunes extensamente difundidas y que ocupan vastas regiones, pertenecientes a los géneros mayores, dentro de cada clase, son las que varían y tienden a transmitir a su modificada descendencia aquella superioridad que ahora las hace dominantes
+en sus propios países. La selección natural, como acaba de observarse, conduce a la divergencia de carácter y a mucha extinción de las formas menos adelantadas e intermedias. Por estos principios puede explicarse la naturaleza de las afinidades y las distinciones, generalmente bien definidas entre los innumerables seres orgánicos de cada clase en
+todo el mundo. Es verdaderamente un hecho maravilloso, por más que la familiaridad nos
+haga no maravillarnos de él, que todos los animales y todas las plantas en todo tiempo y
+en todo el espacio estén relacionados unos con otros en grupos subordinados a grupos, de
+la manera que en todas partes los vemos, a saber: variedades de la misma especie más
+íntimamente relacionadas; especies del mismo género menos íntima y desigualmente relacionadas, formando secciones y subgéneros; especies de distintos géneros mucho menos relacionadas; géneros relacionados en diferentes grados, formando subfamilias, familias, órdenes, subclases y clases. Los diferentes grupos subordinados en una clase no pueden ser colocados en una sola fila, pero parecen apiñados alrededor de puntos, y estos alrededor de otros, y así sucesivamente, en círculos casi interminables. Si las especies
+hubieran sido creadas independientemente, no habría explicación posible para esta clasificación, que hoy se explica por la herencia y por la acción compleja de la selección natu-
+
+ral, de la que resulta la extinción y la divergencia de carácter, como podríamos verlo gráficamente en las líneas que hemos ido trazando en el d iagrama.
+Algunas veces, las afinidades de todos los seres de la misma clase han sido representadas por un gran árbol, y creemos que esta idea es bastante verdadera. En efecto, los renuevos verdes y florecientes pueden representar las especies que existen; y los producidos durante años anteriores pueden representar la larga sucesión de especies extinguidas.
+En cada período de crecimiento, todos los retoños han tratado de ramificarse en todas las
+direcciones y de sobresalir y sofocar a las ramas y renuevos que los rodean, de la misma
+manera en que las especies y los grupos de especies han dominado en todos los tiempos a
+otras especies en la gran batalla por la vida. Los troncos divididos en grandes ramas, y
+éstas en otras cada vez más pequeñas, fueron también en otro tiempo, en la juventud del
+árbol, retoños florecientes; y esta conexión de los brotes antiguos y actuales en los ramificados brazos puede representar a las mil maravillas la clasificación de todas las especies
+extinguidas y vivas en grupos subordinados a otros grupos. De los muchos retoños que
+florecieron cuando el árbol era un mero arbusto, solamente dos o tres, que hoy son las
+ramas grandes, sobreviven y soportan a las otras, y asimismo, de las especies que vivieron durante períodos geológicos hace mucho tiempo, muy pocas han dejado descendientes vivos y modificados. Desde el primer crecimiento del árbol, más de una rama de todos
+los tamaños se ha deteriorado y caído, y estas pueden representar aquellas órdenes, familias y géneros enteros que no tienen representantes vivos y que no son conocidos únicamente en estado fósil. Del mismo modo que de vez en cuando vemos una ramita solitaria
+saliendo por la parte baja del tronco de un árbol, que por alguna circunstancia ha sido favorecida y todavía vive en aquel sitio, se nos presenta también un animal, como el ornitorrinco o el pez de légamo, que en grado pequeño enlaza por sus afinidades a dos grandes
+ramas de vida, y que en la apariencia se ha salvado de la competencia fatal, por haber
+habitado en un paraje protegido. Como los retoños dan por el crecimiento lugar a otros
+retoños, y estos, cuando son vigorosos, se ramifican y dominan por todos lados a muchas
+ramas más débiles, creemos que es eso lo que ha sucedido con el gran árbol de la vida,
+que llena con sus ramas muertas y rotas la corteza de la tierra, cuya superficie cubre con
+sus restantes ramificaciones, siempre hermosas y crecientes.
+
+Capítulo V
+Leyes de la variación
+EFECTOS DEL CAMBIO DE CONDICIONES. Algunos autores creen que tanto
+compete al sistema reproductivo producir diferencias individuales o ligeras desviaciones
+de estructura como hacer a la criatura semejante a sus padres. Pero el hecho de que las
+variaciones y monstruosidades ocurran más frecuenteme nte en la domesticidad que en la
+naturaleza (así como es mayor la variabilidad en las especies que ocupan grandes extensiones que en aquellas que las ocupan reducidas) parece demostrar que la variabilidad se
+relaciona generalmente con las condiciones de vida a las que cada especie ha estado expuesta durante varias generaciones sucesivas.
+Pero en cierto sentido puede decirse que las condiciones de vida no solamente causan
+la variabilidad, directa e indirectamente, sino que de igual manera incluyen la selección
+natural, porque las condiciones determinan si ha de sobrevivir esta o aquella variedad.
+Pero cuando el hombre es agente selector, claramente vemos que los dos elementos de
+
+cambio son distintos; la variabilidad está hasta cierto punto excitada, aunque la voluntad
+del hombre es en cierto sentido la que acumula las variaciones, y esta última causa es la
+que motiva que sobrevivan los más aptos en el estado natural.
+VARIACIÓN CORRELATIVA. Con esta expresión queremos indicar que toda la organización está tan enlazada durante su crecimiento y desarrollo que, cuando ocurren ligeras variaciones en alguna parte y estas se acumulan por la selección natural, se modifican otras partes. Este es un asunto muy importante, imperfectamente entendido, y sin duda, se confunden con facilidad varias clases de hechos completamente distintos. En efecto, la simple herencia tiene a menudo falsa apariencia de correlación, y uno de los casos
+más evidentes en este punto es que las variaciones de estructura que se originan en las
+larvas, tienden a afectar naturalmente la estructura del animal adulto.
+Nuestra ignorancia acerca de las leyes de la variación es profunda, pues ni en un solo
+caso entre cientos podemos pretender saber la razón de las variaciones de esta r3 aquella
+parte. Pero siempre que tenernos medios de establecer la comparación, son idénticas las
+leyes que parecen haber obrado para producir las menores diferencias existentes entre
+variedades de la misma especie y mayores las diferencias que median entre las especies
+del mismo género. El cambio de condiciones motiva generalmente una variabilidad que
+sólo merece ser llamada fluctuante, pero algunas veces causa efectos directos y definidos,
+que con el tiempo pueden llegar a presentarse muy marcados, aunque no tengamos pruebas suficientes sobre este punto.
+El hábito de producir peculiaridades constitucionales, el uso en fortificarlas, y la falta
+de uso en debilitar y disminuir los órganos, parecen en muchos casos haber sido causas
+potentes para producir semejantes efectos. Las partes homólogas tienden a variaciones
+idénticas, así como a la coherencia. Las modificaciones en partes duras y externas afectan
+algunas veces a partes más blandas e internas, y cuando una parte está muy desarrollada,
+quizás tienda a sacar nutrición de las partes adyacentes, entonces toda parte de la estructura que pueda ser economizada sin detrimento, será economizada. Los cambios de estructura en edad temprana pueden afectar a partes desarrolladas después, ocurriendo indudablemente muchos casos de variación correlativa, cuya naturaleza no podemos ente nder. Las partes múltiples no son variables en número y estructura, quizá por causa de que,
+no habiendo sido esas partes vigorosamente especificadas para una función particular, sus
+modificaciones no han sido vigorosamente retenidas por la selección na tural. Se deduce
+probablemente de esta misma causa que los seres orgánicos inferiores son más variables
+que los que ocupan un lugar superior en la escala, y que, por ende, poseen una organización más específica que los primeros. Los órganos rudimentarios, por ser inútiles, no están regulados por la selección natural, siendo por lo tanto variables. Los caracteres específicos, es decir, los caracteres que han llegado a diferenciarse desde que las diversas especies de un mismo género se separaron de su antecesor común, son más variables que
+los caracteres genéricos, o que aquellos que han sido heredados por mucho tiempo y que
+no han diferido dentro de este período. En estas observaciones nos hemos referido a que
+las partes u órganos especiales son todavía variables, porque han variado recientemente, y
+de esta manera han venido a diferenciarse. Pero también hemos visto que el mismo principio se aplica a todo el individuo; así que, en cualquier localidad en que haya habido
+mucha variación y anteriores diferencias, o muchas espedes de un género, o donde la fabricación de nuevas formas específicas haya estado activamente funcionando entre estas
+
+especies, encontraremos seguramente por término medio más variedades que en otras en
+que no hayan podido reunirse semejantes coincidencias favorables.
+Los caracteres sexuales secundarios son en extremo variables y se diferencian mucho
+de las especies de un mismo grupo. La variabilidad en las mismas partes de la organización ha tenido generalmente por resultado diferencias sexuales secundarias a los dos
+sexos de la misma especie, y específicas a las varias especies del mismo género. Cua lquier parte u órgano desarrollado hasta un tamaño excepcional, comparado con la misma
+parte u órgano de la especie aliada, debe haber pasado por un extraordinario número de
+modificaciones desde la formación del género, pudiendo así entender por qué es más variable, todavía en mayor grado que las otras partes, puesto que la variación es un procedimiento lento y por mucho tiempo continuado, sin que la selección natural en casos semejantes haya tenido tiempo para sobreponerse a la tendencia hacia ulterior variabil idad
+y hacia el retroceso a un estado menos modificado. Pero cuando una especie con algún
+órgano extraordinariamente desarrollado se ha convertido en antecesor de muchos descendientes modificados, lo cual, en nuestra opinión, necesita ser un procedimiento muy
+lento que requiere un gran intervalo de tiempo, la selección natural ha conseguido dar carácter fijo al órgano, por muy extraordinariamente que haya sido desarrollado. Las especies que heredan casi la misma constitución de un padre común, y que están expuestas a
+influencias parecidas, tienden a presentar naturalmente variaciones análogas, o estas
+mismas especies pueden ocasionalmente retroceder a algunos de los caracteres de sus antiguos progenitores, y aunque no puedan surgir nuevas e importantes modificaciones,
+añadirán belleza y armonía a la diversidad de la naturaleza.
+Cualquiera que pueda ser la causa de cada una de las ligeras diferenc ias que median entre la cría y sus padres (preciso es que exista una causa para cada una), tenemos razones
+para creer que la constante acumulación de diferencias provechosas ha sido el origen de
+todas las modificaciones importantes en la estructura según los hábitos propios de cada
+especie.
+
+Capítulo VI
+Dificultades de la teoría
+DIFICULTADES DE LA TEORÍA DE DESCENDENCIA CON
+MODIFICACIONES. Todas las dificultades y objeciones a la teoría pueden clasificarse
+en los siguientes puntos:
+1) ¿Por qué, si las especies han descendido de otras especies por delicadas graduaciones, no vemos por todas partes innumerables formas de transición? ¿Por qué toda la naturaleza no está confusa en vez de presentarse las especies tan bien definidas como las vemos?
+2) ¿Es posible que un animal que tenga, por ejemplo, la estructura y las costumbres de
+un murciélago, pueda haber sido formado por la modificación de algún otro animal con
+costumbres y estructuras extremadamente diferentes? ¿Podemos creer que la selección
+natural llegue a producir, por una parte, un órgano de insignificante importancia, como la
+cola de la jirafa, que sirve de espantamoscas, y por otra parte, un órgano tan maravilloso
+como el ojo?
+
+3) ¿Pueden los instintos adquirirse y modificarse por medio de la selección natural?
+¿Qué diremos del instinto que lleva a la abeja a hacer celdas, y que prácticamente se ha
+adelantado a los descubrimientos de notables matemáticos?
+4) ¿Cómo podemos explicarnos que las especies sean estériles o produzcan crías tales,
+mientras que cua ndo se cruzan las variedades su fertilidad es vigorosa?
+Primero: creemos que las especies llegan a ser muy definidas, y que en ningún mome nto presentan caos intrincado de lazos variables e intermedios, porque las nuevas variedades se forman muy lentamente, pues la variación es un procedimiento lento, y la selección natural nada puede hacer hasta que ocurran diferencias o variaciones favorables individuales, y hasta tanto pueda ser mejor ocupado un lugar en la economía natural del
+país, por alguno o algunos de sus habitantes modificados. Estos nuevos lugares dependerán de lentos cambios de clima o de la inmigración accidental de nuevos habitantes, y
+probablemente en un grado todavía más importante, de que alguno de los habitantes antiguos se modifique poco a poco con las nuevas formas de este modo producidas y las antiguas, obrando por acción y reacción las unas sobre las otras, de modo que en cualquier
+región y en cualquier tiempo debemos solamente ver unas pocas especies que presenten
+pequeñas modificaciones de estructura en algún grado permanentes, y esto es lo que vemos.
+Segundo: las áreas que hoy son continuas deben haber existido en un período reciente
+como porciones aisladas, en las cuales muchas formas, especialmente las clases que se
+unen para cada nacimiento, pueden haberse hecho separadamente distintas como para figurar como especies representativas, en cuyo caso las variedades intermedias entre las
+varias especies representantes y su madre común, habrán existido primitivamente en cada
+porción aislada de la tierra. Pero durante el procedimiento de la selección natural habrán
+sido suplantados y exterminados estos eslabones, de tal modo, que ya no podrá encontrárselos en estado de vida.
+Tercero: cuando se han formado dos variedades o más en diferentes porciones de un
+área estrictamente continua, es probable que las variedades intermedias se hayan formado
+al principio en las zonas intermedias, pero generalmente habrán tenido duración corta.
+Por las razones ya asignadas, a saber: por lo que ya conocemos de la distribución actual
+de las especies muy próximas o representantes y de las variedades reconocidas, estas variedades intermedias existirán en las zonas intermedias en número inferior a las variedades a cuyo enlace tienden. Por lo tanto, solamente las variedades intermedias estarán sometidas a exterminio accidental, y durante el procedimiento de ulterior modificación por
+medio de la selección natural, serán casi ciertamente combatidas y suplantadas por las
+formas que ellas enlazan; porque estas presentarán en conjunto más variedades, puesto
+que existen en mayor número, y de este modo se mejorarán más por medio de la selección natural, adquiriendo posteriores ventajas.
+Por último, sin considerar ahora un tiempo dado, sino todos los tiempos, si nuestra teoría es verdadera, precisamente deben haber existido innumerables variedades intermedias,
+unión íntima de todas las especies del mismo grupo; pero el verdadero procedimiento de
+la selección natural tiende constantemente, como ya se ha dicho muchas veces, a ext erminar las formas primitivas y los lazos intermedios. Por consiguiente, sólo pueden encontrarse las pruebas de su anterior existencia entre los restos fósiles conservados, como in-
+
+tentaremos demostrar más adelante, en los anales geológicos, tan imperfectos, digámoslo
+así, como todos sabemos.
+HASTA QUÉ PUNTO ES VERDADERA LA DOCTRINA UTILITARIA; CÓMO SE
+ADQUIERE LA BELLEZA. Las anteriores observaciones nos llevan a decir algunas palabras sobre la protesta hecha recientemente por algunos naturalistas contra la doctrina
+utilitaria de que cada detalle de estructura ha sido producido para el bien de su poseedor.
+Creen que muchas estructuras han sido creadas para la belleza, para el deleite del hombre
+o del Creador (aunque este último punto sale del campo de la discusión filosófico científica), o solamente por mera variedad, opinión que ya hemos discutido; pero, de ser verdad
+tales doctrinas, serían absolutamente fatales para nuestra teoría.
+Con respecto a la creencia de que los seres orgánicos fueron creados hermosos para r ecreo del hombre (creencia que, se ha anunciado, derriba toda nuestra teoría) debemos
+primero hacer notar que el sentido de la belleza depende evidentemente de la naturaleza
+del espíritu, con independencia de toda cualidad real en el objeto admirado, y que la idea
+de lo que es hermoso ni es innata ni inalterable. Vemos esto, por ejemplo, en los hombres
+de razas diferentes, que admiran un tipo enteramente distinto de belleza en sus mujeres.
+Si los objetos hermosos hubieran sido creados únicamente para goce del hombre, habría
+que probar que antes de que el hombre apareciese había menos belleza en la faz de la tierra que desde que él se presentó en escena.
+La belleza, en muchos casos, parece ser debida por completo a la simetría del crecimiento. Las flores se clasifican entre las producciones más hermosas de la naturaleza;
+pero se han hecho visibles por contraste con las hojas verdes, y por consiguiente hermosas, al mismo tiempo para que puedan ser fácilmente observadas por los insectos.
+La selección natural no puede producir ninguna modificación en una especie exclusivamente para el bien de otra, aunque en la naturaleza una especie incesantemente se
+aproveche de las estructuras de las demás. Pero la selección natural puede producir, y a
+menudo produce, estructuras en daño directo de otros animales. Hemos visto que las especies no son indefinidamente variables en cualquier período, y que no están escalonadas
+por multitud de gradaciones intermedias; en parte, porque el procedimiento de la sele cción natural es siempre muy lento, y obra, en cualquier tiempo dado, solamente sobre
+unas pocas formas; y en parte porque el mismo procedimiento de la selección natural lleva implícitas la suplantación continua y la extinción de los grados precedentes e intermedios. Las especies estrechamente unidas, que viven ahora en un área continua, deben en
+muchos casos haber sido formadas cuando el área no lo era y cuando las condiciones de
+vida no se graduaban insensiblemente desde una parte a otra. Cuando se formen dos variedades en dos localidades de una región continua, se formará a menudo una variedad
+intermedia, propia para una zona también intermedia; pero, por razones ya dadas, la variedad intermedia será comúnmente menos numerosa que las dos formas que enlaza, y
+por consiguiente, estas, durante el curso de ulterior modificación, tendrán gran ventaja
+para existir en mayor número sobre la variedad intermedia, y acabarán generalmente por
+suplantarla y exterminarla.
+Debemos ser precavidos en la conclusión de que no pueden grad uarse uno en otro los
+hábitos más diferentes de vida; que, por ejemplo, un murciélago no pudo haber sido formado por la selección natural de un animal que al principio sólo hendía el aire.
+
+En dos seres extensamente alejados uno de otro en la escala natural, los órganos que
+sirven para el mismo propósito, aunque sean en su apariencia externa muy semejantes,
+pueden haber sido formados separada o independientemente. Cuando tales órganos son
+examinados de cerca, casi siempre pueden descubrirse en su estructura diferencias esenciales, siendo esto consecuencia lógica del principio de la selección natural. Por otra parte, la regla común en toda la naturaleza es infinita diversidad de estructura para alcanzar
+el mismo fin; y esta también es consecuencia natural del mismo gran principio.
+En muchos casos, somos demasiado ignorantes para poder afirmar que una parte o un
+órgano sea tan importante para el bienestar de una especie, que las modificaciones en su
+estructura no puedan haberse ido acumulando lentamente por medio de la selección natural. En otros muchos casos, es probable que las modificaciones sean resultado directo de
+las leyes de variación o de crecimiento, independientemente de que aquellas hayan alcanzado bien alguno. Pero aun en esas estructuras podemos estar seguros de que después han
+sido aprovechadas y modificadas en beneficio de las especies, bajo condiciones nuevas de
+vida. También podemos creer que frecuentemente se ha conservado una parte que tuvo
+gran importancia en otros tiempos (como la cola de un animal acuático en sus desce ndientes terrestres) aunque haya llegado a ser de importancia tan pequeña, que no podría
+en su estado actual haber sido adquirida por medio de la selección natural.
+Sabemos que una especie en nuevas condiciones de vida puede cambiar sus hábitos o
+tenerlos diversificados; y algunos pueden ser distintos de los de sus congéneres más inmediatos. Con esto podemos entender, teniendo presente que cada ser orgánico trata de
+vivir en todas las partes que puede, cómo ha sucedido que haya ocas de tierra adentro con
+pies empalmados, picamaderos en el terreno, tordos que bucean y petreles con las costumbres de los pájaros bobos.
+Aunque la creencia de que un órgano tan perfecto como lo es el ojo pudiera haber sido
+formado por la selección natural es bastante para hacer vacilar a cualquiera, sin embargo,
+en el caso de un órgano determinado, si tenemos noticia de una larga serie de graduaciones en su complejidad, cada una de ellas ventajosa para su poseedor, no hay imposibilidad lógica de que, en condiciones cambiadas de vida, adquiera, por medio de la selección
+natural, cualquier grado de perfección concebible. En los casos en que no sabemos nada
+de los estados intermedios o de transición, tenemos que ser extremadamente cautos para
+deducir que no puede haber existido ninguno, porque las metamorfosis de muchos órganos prueban que, por lo menos, son posibles maravillosos cambios en sus funciones. Por
+ejemplo: la vejiga natatoria ha sido aparentemente convertida en pulmón que respira aire.
+El mismo órgano que haya desempeñado en forma simultánea funciones muy diferentes,
+y que después haya sido especializado en todo o en parte para una sola, y dos órganos
+distintos que hayan desempeñado al mismo tiempo la misma función, habiendo sido el
+uno perfeccionado con ayuda del otro, deben muchas veces haber facilitado bastante las
+transiciones.
+La selección natural nada puede producir en una especie para el bien o daño exclusivo
+de otra, aunque sí puede producir partes orgánicas y excreciones altamente útiles o indispensables, y también altamente dañosas para otra especie; pero han de ser en todos los
+casos útiles al mismo tiempo para el poseedor. En cada país bien poblado, obra la selección natural por medio de la competencia de los habitantes, y por consiguiente, lleva al
+triunfo en la batalla por la vida, pero solamente de acuerdo con el tipo modelo de aquel
+
+país determinado. Por esto los habitantes de un país pequeño ceden a menudo ante los
+habitantes de otro más grande, porque en este existirán más individuos y formas más diversificadas, lo que produce una competencia más severa, y por ende el tipo de perfección se habrá hecho superior. La selección natural no conducirá necesariamente a la perfección absoluta, ni tampoco, en cuanto nuestras facultades limitadas nos permiten juzgar, puede señalarse en todas partes cuál sería la perfección absoluta.
+Con la teoría de la selección natural podemos entender claramente el sentido completo
+de aquel antiguo canon de historia natural: "Natura non fácil saltum", el cual no es estrictamente exacto si miramos sólo a los actuales habitantes del mundo; pero si incluimos a
+todos los de los tiempos pasados conocidos y por conocer, dentro de nuestra teoría debe
+ser perfectamente verdadero.
+Se reconoce generalmente que todos los seres orgánicos han sido formados según dos
+grandes leyes: unidad de tipo y condiciones de existencia. Por unidad de tipo se entiende
+ese acuerdo fundamental en la estructura que vemos en los seres orgánicos de la misma
+clase, y que es totalmente independie nte de sus hábitos de vida. Según nuestra teoría, se
+explica la unidad de tipo por la unidad de descendencia. La expresión "condiciones de
+existencia", en la que tan a menudo insiste el ilustre Cuvier, es cabalmente comprendida
+por el principio de la selección natural. Pues esta obra, o bien adaptando ahora las varias
+partes de cada ser a sus condiciones de vida orgánicas e inorgánicas, o bien, habiéndolas
+adaptado en épocas pasadas, son ayudadas en muchos casos por el mayor o menor uso de
+las partes afectadas por la acción directa de las condiciones externas de vida, y en todos
+los casos sujetas a las diversas leyes de crecimiento y variación. Por esta razón, la ley de
+las condiciones de existencia es la ley superior, pues incluye, por la herencia de variaciones y adaptaciones anteriores, la ley de la unidad de tipo.
+
+Capítulo VII
+Objeciones a la teoría de la selección natural
+LONGEVIDAD. Un distinguido naturalista alemán ha asegurado que la parte más débil de esta teoría es que consideramos a todos los seres orgánicos como imperfectos. Lo
+que realmente hemos dicho es que no todos son tan perfectos como pudieran haberlo sido
+en relación con sus condiciones, lo cual está demostrado por el hecho de que tantas fo rmas indígenas en muchos puntos del globo hayan cedido sus puestos a intrusos. Tampoco
+pueden los seres orgánicos, aun cuando en un tiempo dado estuvieran perfectamente
+adaptados a sus condiciones de vida, haber seguido estándolo cuando estas condiciones
+cambiaban, a menos que ellos también cambiaran de igual modo; y nadie disputará que
+las condiciones físicas de cada país, como también los números y de sus habitantes, han
+pasado por muchas mutaciones.
+Incluso ha habido un crítico que recientemente ha repetido, con alguna apariencia de
+exactitud matemática, que la longevidad es una gran ventaja para todas las especies, de
+tal modo que quien crea en la selección natural "necesita arreglar su árbol genealógico",
+para que todos los descendientes tengan una vida más larga que sus progenitores. ¿No
+puede nuestro crítico concebir que una planta bienal o uno de los animales inferiores
+pueda extenderse a un clima frío y perecer allí cada invierno, y sin embargo, por causa de
+las ventajas adquiridas por medio de la selección natural, sobrevivir año tras año por me-
+
+dio de sus semillas o huevos? Mr. E. Ray Lankester ha discutido recientemente este punto, y sus conclusiones son, en cuanto la extrema complejidad del asunto le permite formar
+juicio, que la longevidad está generalmente relacionada con el tipo de cada especie en la
+escala de la organización, y también con la cantidad de lo que se gasta en la reproducción
+y en la actividad general, por lo que es probable que estas condiciones hayan sido grandemente determinadas por medio de la selección natural.
+El célebre paleontólogo Bronn, al final de su traducción alemana, pregunta cómo puede
+por el principio de la selección natural vivir una variedad al lado de la variedad madre.
+También insiste Bronn en que las especies distintas nunca varían entre sí en caracteres
+aislados, sino en muchos puntos, y pregunta: "¿Por qué muchas partes de la organización
+han sido modificadas a un mismo tiempo por medio de la variación y de la selección natural?". La mejor respuesta a la expresada objeción es la que presentan esas razas domésticas que han sido modificadas con algún objeto especial, principalmente por el poder de
+la selección del hombre. Véanse el caballo de carrera y el de tiro, el galgo y el mastín.
+Toda su figura, y aun sus distintivos mentales, han sido modificados, pero si pudiéramos
+trazar paso por paso la historia de sus transformaciones, como podemos hacerlo con los
+pasos más recientes, no veríamos grandes y simultáneos cambios, sino primero el de una
+parte y luego el de otra, seguramente mejorada. Aun cuando la selección haya sido aplicada por el hombre a un solo carácter, de lo cual ofrecen los mejores ejemplos nuestras
+plantas cultivadas, se encontrará invariablemente que aunque esta parte (flor, fruto u
+hojas) haya sido en gran medida cambiada, casi todas las otras partes también habrán sido
+modificadas, lo cual puede atribuirse por un lado al principio de crecimiento correlativo y
+por otro a la variación llamada espontánea.
+Una objeción mucho más seria ha presentado Bronn, y después de él, recientemente,
+Broca, a saber: que muchos caracteres no son, al parecer, de utilidad alguna para sus poseedores, y que, por lo tanto, la sele cción natural no debe haber tenido influencia en ellos.
+Bronn pone el caso de la longitud de las orejas y rabos de las diferentes especies de liebres y ratones, los complejos pliegues del esmalte en los dientes de muchos animales, y
+otros muchos casos análogos. Con respecto a las plantas, ha sido ya discutido este asunto
+por Nágeli en un ensayo admirable, en el que admite que la selección natural ha realizado
+mucho, aunque insiste en que las familias de las plantas se diferencian principalmente
+entre sí en caracteres morfológicos sin ninguna importancia, al parecer, para el bienestar
+de la especie. Cree, por consiguiente, en una tendencia innata hacia el desarrollo progresivo y más perfecto, y especifica la disposición de las células en los tejidos y de las hojas
+en el eje, como casos en los cuales no podía haber operado la selección natural. A estos
+ejemplos pueden añadirse las divisiones numéricas de las partes de la flor, la posición de
+los óvulos, la figura de la semilla, cuando no es de utilidad para la diseminación, etc.
+Mucha fuerza tiene esta objeción; pero a pesar de todo, debemos, en primer lugar, ser
+como hemos dicho antes, extremadamente cautos al pretender decidir qué estructuras son
+ahora o han sido útiles a cada especie. En segundo lugar, hay que recordar siempre que
+cuando se modifica una parte, se modifican también otras por ciertas causas, oscuramente
+vistas, tales como aumento o disminución de corriente nutritiva para una parte precisa,
+presión mutua, que una parte que se desarrolle al principio afecte a otra que se desarrolle
+después, etc., o por otras causas que motivan los muchos y misteriosos casos de correlación que no entendemos mucho. Estas influencias pueden ser agrupadas gracias a la bre-
+
+vedad, bajo la expresión de leyes del crecimiento. En tercer lugar, algo tenemos que conceder a la acción directa y definida del cambio de cond iciones de vida y a las variaciones
+llamadas espontáneas, en las que la naturaleza de las condiciones desempeña aparent emente un papel del todo secundario.
+Las variaciones de los pimpollos como la aparición de una rosa de musgo en una rosa
+común, o de un pelón en un árbol de melocotones, ofrecen ejemplos claros de variaciones
+espontáneas, pero aun en estos casos, si recordamos el poder que tiene una gota minúscula de veneno para producir agallas muy complejas, no debemos estar muy seguros de que
+las variaciones antes señaladas no sean efecto de algún cambio local en la naturaleza de la
+savia, debido a algún cambio de condiciones. Tiene que haber alguna causa para cada pequeña diferencia individual, así como para las variaciones más fuertemente marcadas que
+de vez en cuando surgen. Y si la causa desconocida obrara con persistencia, es casi seguro que todos los individuos de la especie quedarían modificados de un modo semejante.
+Una estructura que ha sido desarrollada a través de selección continuada por mucho
+tiempo, cuando deja de ser útil a la especie se hace generalmente variable, como lo vemos
+en los órganos rudimentarios, porque deja de ser regulada por este mismo poder de selección. Pero cuando por la naturaleza del organismo y de las condiciones se han originado
+modificaciones que no son importantes para el bienestar de las especies pueden ser, y generalmente lo han sido, transmitidas en casi el mismo estado a descendientes numerosos,
+modificados en otros sentidos. No puede haber sido de mucha importancia para el mayor
+número de los mamíferos, aves o reptiles, el estar cubiertos de pelos, plumas o escamas:
+sin embargo, el pelo ha sido transmitido a casi todos los mamíferos, las plumas a todos
+los pájaros y las escamas a todos los verdaderos reptiles. Una estructura, cualquiera, común a muchas formas parecidas, es considerada por nosotros como de alta importancia
+sistemática, y por consiguiente, se afirma con frecuencia que es de alta importancia vital
+para la especie.
+Nos inclinamos a creer que las diferencias morfológicas que consideramos importantes,
+tales como el arreglo de las hojas, las divisiones de la flor o del ovario, la posición de los
+óvulos, etc., aparecieron en muchos casos primeramente como variaciones fluctuantes,
+que más pronto o más tarde se hicieron constantes por la naturaleza del organismo y de
+las condiciones ambientales, como también por el cruzamiento entre distintos individuos,
+pero no por la selección natural. Pues como estos caracteres morfológicos no afectan el
+bienestar de la especie, cualquier pequeña variación en ellos no pudo haber sido gobernada o aumentada por la última de las causas dichas. Así llegamos a un resultado extraño, a
+saber: que los caracteres de poca importancia vital para las especies son los más importantes para el sistematizador.
+Un distinguido zoólogo, Mr. Saint George Mivart, ha reunido recientemente todas las
+objeciones que se han hecho en otros tiempos por otros y por nosotros a la teoría de la
+selección natural tal como la hemos expuesto Mr. Wallace y nosotros, y ha aclarado
+aquellas, con ejemplos expuestos y con admirable arte. Mr. Mivart afirma con frecuencia
+que no le atribuimos nada a la variación independientemente de la selección natural,
+cuando todos saben que hemos coleccionado un número mayor de hechos auténticos que
+el que se encuentra en ninguna otra obra conocida. Nuestro juicio podrá no ser fidedigno,
+pero nunca nos hemos sentido tan fuertemente convencidos de la verdad de las conclusiones aquí sentadas como después de leer con cuidado el libro de Mr. Mivart.
+
+Hoy por hoy, casi todos los naturalistas admiten la evolución bajo una forma u otra.
+Mr. Mivart cree que las especies cambian en virtud de "una fuerza o tendencia interna",
+sobre cuyos elementos no se pretende averiguar cosa definitiva. Que las especies tienen
+capacidad para cambiar, lo admitirán todos los evolucionistas; pero no es necesario, a
+nuestro modo de ver las cosas, invocar ninguna fuerza interna que no sea la tendencia a la
+variabilidad ordinaria, la cual, con ayuda de la selección dirigida por el hombre, ha dado
+nacimiento a tantas razas domésticas bien adaptadas, así como con ayuda de la selección
+natural originaría igualmente por pasos graduales, razas o especies naturales. El resultado
+final habrá sido, como ya se ha explicado, un adelanto en la organización, aunque en algunos pocos casos haya sido un retroceso.
+Mr. Mivart se inclina además a creer, y algunos naturalistas están de acuerdo con él,
+que las especies nuevas se manifiestan de repente "por modificaciones que aparecen con
+brusquedad y de una vez". Juzga difícil de creer que el ala de un ave se haya desarrollado
+de otra manera que no sea por modificación relativamente brusca, de naturaleza marcada
+e importante. Esta conclusión, que indica grandes lagunas o soluciones de continuidad en
+la serie, nos parece inverosímil.
+Todo el que cree en la evolución lenta, y gradual admitirá desde luego que pueden
+haber existido cambios específicos tara bruscos y tan considerables como urja simple variación cualquiera de las que encontramos en el estado silvestre y hasta en el doméstico.
+Pero como las especies son más variables cuando están domesticadas o cultivadas que en
+sus condiciones naturales, no es probable que variaciones tan grandes y repentinas hayan
+ocurrido con frecuencia en el estado natural. Como se sabe, de vez en cuando surgen en
+el estado doméstico. De estas últimas variaciones algunas pueden ser atribuidas al retroceso, y los caracteres que de este modo reaparecen, probablemente fueron adquiridos en
+muchos casos al principio de una manera gradual, y aun el mayor número de ellas debe
+tenerse por monstruosidades, como los hombres con seis dedos, o los puerco espines, los
+carneros ancón, el ganado ñato, etc.; y como difieren enteramente por sus caracteres de
+las especies naturales, arrojan escasa luz sobre la materia que tratamos. Excluidos esos
+casos de variaciones bruscas, los pocos que quedan constituirán a lo sumo, si se los halla
+en estado natural, especies dudosas íntimamente relacionadas con los tipos de sus antecesores.
+Las razones en las que se apoya nuestra duda para creer que las especies naturales
+hayan cambiado tan bruscamente como lo han hecho algunas de las razas domésticas, y
+para rechazar en absoluto que hayan cambiado de la manera maravillosa indicada por Mr.
+Mivart, son las siguientes:
+Según el resultado de nuestra experiencia, ocurren variaciones bruscas y muy marcadas
+en nuestras producciones domésticas, solamente en casos aislados y con grandes intervalos de tiempo.
+Si ocurriesen tales variaciones en el estado natural, estarían expuestas a perderse por
+causas accidentales de destrucción y por los siguientes cruzamientos, como sabemos que
+sucede en la domesticidad, cuando las variaciones bruscas de esta clase no son especialmente preservadas y separadas por el cuidado del hombre. Por esta razón, para que apareciera una especie nueva repentinamente, a la manera que Mr. Mivart supone, es casi necesario creer, en contra de lo que nos enseñan casos análogos, que algunos individuos
+
+maravillosamente cambiados aparecieron simultáneamente dentro de la misma localidad.
+Esta dificultad queda resuelta, como en el caso de la selección inconscientemente verificada por el hombre, acudiendo a la teoría de la evolución gradual, en virtud de la preservación de un gran número de individuos que varíen más o menos en una dirección favorable y de la destrucción de un gran número que varíe en sentido opuesto.
+Existe la duda de que muchas especies hayan sido desarrolladas en manera extremadamente gradual, porque las especies, y hasta los géneros de muchas grandes familias naturales están tan inmediatamente enlazados, que es difícil distinguirlos. En cada continente,
+al ir del Norte al Sur, de las tierras bajas a las altas, etc., nos encontramos con una cantidad de especies íntimamente relacionadas o representativas, y al suceder lo mismo en
+ciertos continentes separados, tenemos razones para creer que estos estuvieron unidos en
+otro tiempo. Pero al hacer estas observaciones y las subsiguientes, nos vemos obligados a
+hacer referencia a puntos que se discutirán más adelante. Véanse las muchas islas que están alrededor de un continente cualquiera, y se verá cuántos de sus habitantes pueden merecer ser clasificados en el número de las especies dudosas. Lo mismo sucede si miramos
+los tiempos pasados y comparamos las especies que acaban de desaparecer con las que
+todavía existen en las mismas regiones, o si comparamos las especies fósiles enterradas
+en las subcapas de la misma formación geológica. Por lo tanto, resulta evidente que hay
+una multitud de ellas relacionadas de la manera más íntima con otras que todavía existen
+o que han existido recienteme nte, y difícilmente se sostendrá que tales especies deban su
+desarrollo a cambios bruscos o repentinos. Es preciso no olvidar tampoco, cuando estudiamos los órganos especiales de especies inmediatas, en vez de los de especies distintas,
+que pueden trazarse gradaciones numerosas y asombrosamente delicadas que relacionan
+estructuras extraordinariamente diferentes.
+Muchos hechos se comprenden tan sólo por el principio de que las especies se han desarrollado por pasos muy pequeños, como por ejemplo, el fenómeno de que las especies
+incluidas en los géneros más grandes estén más íntimamente relacionadas entre sí y presenten mayor número de variedades que las especies de los géneros menores. Las primeras están también agrupadas en pequeños grupos, como las variedades alrededor de las
+especies, y presentan otras analogías con las variedades, según queda demostrado en el
+capítulo II de esta obra. Con este mismo principio podemos entender cómo los caracteres
+específicos son más variables que los genéricos, y cómo las partes que se desarrollan en
+grado o modo extraordinario son más variables que las demás partes de la misma especie.
+Muchos hechos análogos podrían citarse en confirmación de esta doctrina.
+Aunque es casi cierto que muchísimas especies se han producido por pasos no mayores
+que los que separan variedades muy delicadas, puede sostenerse que algunas han sido
+desarrolladas de una manera diferente y brusca. No debe hacerse, sin embargo, esta concesión sin que se den excelentes pruebas de la ve rdad anunciada.
+A menos que admitamos transformaciones tan prodigiosas como las que defiende Mr.
+Mivart, tales como el repentino desarrollo de las alas de pájaros o murciélagos, o la súbita
+conversión del hiparión en caballo, la creencia en las modificaciones bruscas apenas da
+alguna luz a la falta de eslabones de enlace en nuestras formaciones geológicas; pero la
+embriología presenta una fuerte protesta contra las creencias en cambios bruscos. Es notorio que las alas de las aves y murciélagos, como las piernas de los caballos y otros cuadrúpedos, sean indistinguibles en un período embrionario temprano, y que se diferencien
+
+sólo par pasos insensiblemente delicados. Los parecidos embriológicos de todas las clases
+pueden exp licarse por las variaciones verificadas después de la primera juventud en las
+progenituras de nuestras especies existentes, que transmiten los caracteres nuevamente
+adquiridos a su descendencia en la edad correspondiente. El embrión no queda afectado,
+y sirve como indicio de la pasada condición de las especies. Por eso sucede que las especies existentes, durante los primeros períodos de su desarrollo, se parecen a menudo a
+formas antiguas y extinguidas, pertenecientes a la misma clase. Con esta opinión sobre el
+significado de los parecidos embriológicos, y sea cual fuere la opinión, es increíble que
+un animal haya sufrido transformaciones tan instantáneas y bruscas como las indicadas
+arriba, y que no tenga, sin embargo, en su condición embriónica, ninguna huella de modificación repentina. Por lo tanto, todos los detalles de su estructura son debidos a los pasos
+insensiblemente delicados. Todo el que crea que por medio de fuerzas o tendencias internas se transforma repentinamente una forma antigua en otra alada, por ejemplo, se verá
+casi obligado a suponer, en contra de todas las analogías observadas, que muchos individuos varían simultáneamente. No puede negarse que esos cambios tan bruscos y gra ndes
+de estructuras sean totalmente diferentes de aquellos que la mayor parte de las especies,
+al parecer, han atravesado. Se verá obligado también a creer que muchas estructuras notablemente adaptadas a todas las demás partes del mismo ser y a las condiciones que las
+rodean han sido repentinamente producidas, sin que sea posible que encuentre ni sombra
+siquiera de explicación para tan complejas y maravillosas coadaptaciones. Se verá forzado a admitir que cuando estas sean grandes y repentinas no dejarán ningún rasgo de su
+acción en el embrión; lo cual, a nuestro modo de ver, es lo mismo que dejar los reinos de
+la ciencia para entrar en los del milagro.
+
+Capítulo VIII
+Instinto
+LOS INSTINTOS SON COMPARABLES CON LOS HÁBITOS, PERO SE
+DIFERENCIAN DE ESTOS POR EL ORIGEN. No intentaremos dar aquí la definición
+del instinto, pues es fácil demostrar que se comprenden comúnmente en este término varias acciones mentales distintas, y todo el mundo sabe qué significa decir que el instinto
+induce, por ejemplo, al cuco a emigrar y poner sus huevos en los nidos de otras aves. Una
+acción para cuya realización nosotros mismos necesitaríamos experiencia, cuando es re alizada por algún animal, especialmente si este es muy joven, sin experiencia, y cuando es
+llevada a cabo de la misma manera, por muchos individuos, sin que sepan para qué la
+hacen, se apellida comúnmente instintiva. Pero podríamos demostrar que ninguno de estos caracteres puede tomarse por universal, pues siempre entra en juego una pequeña dosis de juicio o de razón, como la llama Pierre Huber, aun en los animales situados muy
+bajos en la escala de la naturaleza.
+Federico Cuvier y algunos de los metafísicos más antiguos han comparado el instinto
+con el hábito, y nosotros creemos que esta comparación da una idea exacta del estado de
+ánimo bajo el cual se lleva a cabo una acción instintiva, aunque no se explique precisamente su origen. ¡Cuán inconscientemente se hacen por hábito muchas cosas que en bastantes casos están en oposición directa con nuestra voluntad consciente!
+Ahora bien; estas acciones pueden ser modificadas por la voluntad o por la razón. Los
+hábitos fácilmente se asocian con otros hábitos en ciertos períodos de tiempo y estados
+
+del cuerpo, pero una vez adquiridos, permanecen constantes toda la vida. Podrían indicarse algunos puntos parecidos entre los instintos y los há bitos. Sucede con los instintos lo
+mismo que al repetir una canción muy sabida, una acción sigue a la otra por una especie
+de ritmo. Si se interrumpe a una persona cuando canta o cuando ejecuta algo por rutina,
+se la obliga generalmente a volver atrás para recobrar el hilo habitual del pensamiento.
+Si suponemos que una acción habitual pasa a ser hereditaria, lo cual puede demostrarse
+que sucede algunas veces, entonces el parecido entre lo que en su origen fue un hábito y
+un instinto es tan grande, que no es posible establecer la diferencia. Si Mozart, en lugar
+de tocar maravillosamente el piano cuando tenía tres años de edad, hubiera ejecutado una
+tonada sin práctica ninguna, podría haberse dicho verdaderamente que lo había hecho por
+instinto. Pero sería un error serio suponer que se ha adquirido por hábito el mayor número
+de los instintos en una generación, y que estos se han transmitido después, por herencia, a
+las generaciones posteriores. Puede demostrarse claramente que es imposible que los instintos más maravillosos que conocemos, a saber, los de la abeja de colmena y los de muchas hormigas, hayan sido adquiridos por hábito.
+Todos admitirán que para el bienestar de cada especie en sus condiciones actuales de
+vida, los instintos son tan importantes como las estructuras corpóreas. En condiciones
+cambiadas de vida es posible que sean ventajosas a una especie algunas ligeras modificaciones de instintos; y si puede demostrarse que estos varían, por poco que sea, no vemos
+dificultad en admitir que la selección natural conserva y acumula las variaciones de instintos en cualquier medida que sea ventajosa. Creemos firmemente que así se han originado todos los instintos más complejos y asombrosos que conocemos. Al igual que nacen
+y se aumentan por el uso o el hábito las modificaciones en la estructura corpórea, y se
+disminuyen o pierden por el desuso, debe haber sucedido con los instintos. Pero creemos
+que los efectos del hábito son de importancia secundaria con respecto a los efectos de la
+selección natural en lo que podríamos llamar variaciones espontáneas de instintos, esto
+es, variaciones manifestadas por las mismas causas ocultas que producen las pequeñas
+desviacio nes en la estructura del cuerpo.
+Hay menos posibilidades de obtener algún instinto complejo por medio de la selección
+natural que por la lenta y gradual acumulación de variaciones múltiples y ligeras, pero
+ventajosas. Así, pues, como en el caso de las estructuras corpóreas, tenemos que encontrar en la naturaleza, no los grados reales de transición por lo s cuales se ha adquirido cada
+instinto complejo (porque estos podrían encontrarse solamente en los antecesores directos
+de cada especie), sino algunas pruebas de estos grados de transición en las líneas colaterales de descendencia, o al menos debemos ponernos en condición de demostrar que son
+posibles ciertos grados, sean de la clase que fueren, lo cual es ciertamente posible hacerlo. Los cambios de instintos pueden muchas veces facilitarse cuando la misma especie
+posee diferencias en los diversos períodos de la vida, o en las diversas estaciones del año,
+o cuando sus individuos atraviesan diferentes circunstancias, en cuyo caso puede la selección natural conservar el uno o el otro instinto. Esto demuestra que, en la naturaleza, ocurren semejantes ejemplos de diversidad en la misma especie.
+Además, como en el caso de la estructura corpórea, y en conformidad con nuestra teoría sucede que, el instinto de cada especie es bueno para la misma; pero no ha sido nunca
+producido en beneficio exclusivo de otras especies. Uno de los casos más convincentes
+que conocemos de un animal que aparentemente lleve a cabo un acto sólo por el bien de
+
+otro animal, es el de los pulgones, que voluntariamente ceden a las hormigas su dulce excreción. Huber observó, antes que nadie, que lo hacen voluntariamente, como lo demuestran los siguientes hechos: en cierta ocasión removimos todas las hormigas que había entre un grupo de diez o doce pulgones que habitaban en una planta de acedera, e impedimos que volviesen a ella durante algunas horas.
+Pasado este intervalo, ya era seguro que los pulgones necesitaban excretar. Los observamos por algún tiempo, valiéndonos de una lente, y vimos con sorpresa que ni uno solo
+de ellos lo había hecho. Entonces los tocamos e instigamos con un cabello, imitando en lo
+posible lo que hacen las hormigas con sus antenas. Después de esto dejamos que una
+hormiga se acercara a ellos, y en el acto, por las ansias con que corría de un lado para
+otro, parecía indicar no desconocer el pasto que acababa de descubrir. Ent onces empezó a
+tocar con sus antenas el abdomen de uno de los insectos, pasando luego a otro, y después
+a otro, etc. Cada uno de ellos, al sentir las antenas, levantaba inmediatamente su abdomen
+y excretaba una gota transparente del dulce jugo, que ansiosamente era devorado por la
+hormiga. Los pulgones más jóvenes obraban de la misma manera, demostrando así que la
+acción era instintiva y no resultado de la experiencia.
+También podría demostrarse con muchos hechos que las cualidades mentales de los
+animales de la misma clase nacidos en estado natural varían mucho, y asimismo es fácil
+aducir diferentes casos de hábitos extraños y accidentales en animales salvajes, cuyos
+hábitos, de ser ventajosos para la especie, podrían haber dado lugar a nuevos instintos por
+medio de la selección natural.
+CAMBIOS HEREDITARIOS DE HÁBITOS O DE INSTINTOS EN LOS
+ANIMALES DOMÉSTICOS. Se aumentará la creencia en la posibilidad y aun en la probabilidad de la herencia de las variaciones distintas en estado natural, al considerar brevemente algunos pocos casos que ocurren en la domesticidad, pues así podremos ver la
+parte que el hábito y la selección de las variaciones llamadas espontáneas ha tenido en
+modificar las cualidades mentales de nuestros animales domésticos, siendo notorio cuánto
+varían en sus cualidades mentales muchos de estos animales. En los gatos, por ejemplo,
+vemos que mientras uno se dedica naturalmente a la caza de ratas, otro prefiere la de ratones, siendo cosa sabida que estas tendencias se heredan. Los instintos domésticos, que
+así podremos llamarlos, son ciertamente mucho menos fijos que los naturales; pero en
+ellos ha obrado una selección mucho menos rigurosa y han sido transmitidos por un período de tiempo incomparablemente más corto y en condiciones de vida menos estables.
+Las cualidades mentales de nuestros animales domésticos varían y se heredan, aunque
+los instintos cambian ligeramente en estado natural. Nadie disputará que los instintos son
+de la mayor importancia para cada animal; por lo tanto, no hay dificultad real cambiando
+las condiciones de vida, para que la selección natural acumule en un grado cualquiera las
+ligeras modificaciones de instinto que sean útiles de algún modo. En muchos casos es
+probable que haya entrado en juego el hábito o el uso y el desuso; y si pretendemos afirmar que los hechos presentados en este capítulo den fuerza de ninguna clase a esta teoría,
+tampoco concederemos que alguno de los casos de dificultad la anulen, confesándonos
+como completamente equivocados. Por otra parte, el hecho de que los instintos no sean
+siempre absolutamente perfectos y estén sujetos a equivocaciones; el que no pueda presentarse un instinto que haya sido producido en beneficio de otros animales, por más que
+estos se aprovechen de los instintos de otros; y el que el canon de historia natural "Natura
+
+non facit saltum" sea aplicable a los instintos al igual que a la estructura corpórea y sea
+plenamente inteligible con las opiniones anteriores, y de otros modos inexplicables; todo,
+en suma, tiende a corroborar la teoría de la selección natural.
+También esta teoría adquiere fuerza por unos cuantos hechos más con respecto a los
+instintos, como es el caso común de especies muy cercanas, pero distintas, que habitan
+diversas partes del mundo y viven en condiciones cons iderablemente diferentes, y que,
+sin embargo, conservan con frecuencia casi los mismos instintos. Por ejemplo, podemos
+entender cómo por el principio de la herencia, el tordo de la América tropical del Sur cubre su nido de barro, de la misma manera peculiar que nuestro tordo británico; cómo los
+todopicos del África y de la India tienen el mismo instinto extraordinario de tapiar y aprisionar a las he mbras en un hueco de un árbol, abriendo un agujerito en la tapia, por el
+cual los machos les dan el alimento a ellas y a sus polluelos cuando salen del cascarón;
+cómo el regaliolo macho (Troglodita), de la América del Norte, construye nidos para su
+descanso al igual que en Europa, hábito completamente diferente del de todos los pájaros
+conocidos. Finalmente, acaso no sea deducción lógica, pero sí para nosotros muchísimo
+más satisfactoria, considerar que instintos tales como el del pollo de cuclillo, que echa a
+sus hermanos del nido, el de las hormigas que hacen esclavos y los de las larvas de los
+ichneumones, que se alimentan dentro de los cuerpos vivos de las orugas, no son instintos
+especialmente creados, con los cuales se ha dotado respectivamente a esos animales, sino
+pequeñas consecuencias de la ley general que lleva a la mejora de todos los seres orgánicos, a saber: la de multiplicar, variar, dejar vivir al más fuerte y dejar morir al más débil.
+
+Capítulo IX
+Hibridismo
+DISTINCIÓN ENTRE LA ESTERILIDAD DE UN PRIMER CRUZAMIENTO Y LA
+DE LOS HÍBRIDOS; GRADOS DE ESTERILIDAD; DIFORMISMO Y
+TRIFORMISMO RECÍPROCOS. La opinión más vulgar entre los naturalistas es que las
+especies, cuando se cruzan, han sido especialmente dotadas de esterilidad para impedir
+que se confundan. A primera vista, esta opinión parece ciertamente muy probable, porque
+apenas hubieran podido conservarse distintas las especies que viven juntas si hubieran
+sido susceptibles de cruzarse libremente. Es en muchos conceptos importante para nosotros este asunto, sobre todo porque la esterilidad de las especies, cuando por primera vez
+se cruzan, y la de su descendencia híbrida, no puede haberse adquirido, como demostraremos, conservando grados ventajosos y sucesivos de esterilidad, sino que es resultado
+incidental de las diferencias en el sistema reproductivo de las especies madres.
+Al tratar este asunto se han confundido generalmente dos clases de hechos, hasta cierto
+punto fundame ntalmente diferentes, a saber: la esterilidad de las especies, cuando por
+primera vez se cruzan, y la esterilidad de los híbridos, productos de estos cruzamientos.
+Las especies puras tienen naturalmente sus órganos de reproducción en estado perfecto,
+y sin embargo, cuando se cruzan, producen poca o ninguna descendencia. Los híbridos,
+por otra parte, tienen sus órganos reproductivos funcionalmente impotentes, como puede
+claramente verse en el estado del elemento macho, tanto en las plantas como en los animales, aunque sean perfectos en estructura los órganos formadores, en cuanto el microscopio los revela. En el primer caso son perfectos los dos elementos sexuales que entran a
+
+formar el embrión; en el segundo, o no están del todo desarrollados o lo están imperfectamente. Es importante esta distinción al tener que considerar la causa de la esterilidad
+común en los dos casos, y probablemente ha sido pasada ligeramente por alto, porque en
+ambos se ha creído que la esterilidad era un don especial, fuera del alcance de nuestra razón.
+La fertilidad de las variedades, es decir, de las formas que se sabe o que se cree que
+descienden de padres comunes, cuando se cruzan, y de igual modo la fertilidad de su descendencia mestiza, son, en lo que a nuestra teoría se refiere, de igual importancia que la
+esterilidad de las especies, porque al parecer establece ancha y clara distinción entre las
+variedades y las especies.
+En cuanto a la esterilidad de los híbridos en generaciones sucesivas, aunque Gaertner
+pudo criar algunos híbridos guardándolos cuidadosamente para que no se cruzaran con
+ninguno de raza pura, durante seis o siete generaciones, y durante diez en un caso, afirma
+positivamente que su fertilidad no crece nunca, sino que generalmente disminuye mucho
+y de repente. Con respecto a esta disminución, lo primero que hay que notar es que cua ndo es común a ambos padres cualquier desviación en la estructura o constitución, se
+transmite esta con frecuencia en grado creciente a la descendencia, y en las plantas híbr idas ambos elementos sexuales están ya un tanto afectados. Pero creemos que su fertilidad
+ha disminuido en casi todos estos casos por causa independiente, a saber: por cruzamientos demasiado próximos. Hemos hecho tantos experimentos y reunido tantos hechos que
+prueban por una parte que en ocasiones el cruzamiento con un individuo o variedad distintos aumentan el vigor y fertilidad de la descendencia, y por otra parte que el cruzamiento muy próximo disminuye su vigor y fertilidad, que no nos cabe duda de la exactitud de esta conclusión. Los híbridos rara vez son criados en gran número por los experimentadores; y como las especies madres u otras híbridas inmediatas crecen generalmente
+en el mismo jardín, debe evitarse cuidadosamente, durante la estación florida, el acceso
+de los insectos. Por esto los híbridos, cuando se abandonan a sí mismos, son generalmente fecundos en cada generación por polen de la misma flor, y esto probablemente sería
+nocivo a su fecund idad, ya aminorada por su origen híbrido, por lo cual nos confirma una
+proposición hecha repetidas veces por Gaertner, a saber: que aun los híbridos menos fért iles, si son fecundados artificialmente por polen híbrido de la misma clase, se hacen decididamente más fecundos y continúan aumentando en fecundidad a pesar de los frecuentes
+y malos efectos de la manipulación. Ahora bien; en el procedimiento de la fecundidad
+artificial sabemos por experiencia propia que, tan pronto como se toma por casualidad
+polen de las anteras de otra flor, como de las de la misma flor que hay que fertilizar, se
+realiza muchas veces el cruzamiento entre dos flores de la misma planta. Además, cuando
+se hacen experimentos complicados, un observador tan cuidadoso como Gaertner debió
+haber castrado sus híbridos, y esto le hubiera dado seguridad, en cada generación, de que
+no se realizaba el cruzamiento con polen de una flor distinta, ya fuera de la misma planta,
+o de otra de la misma naturaleza híbrida. De este modo, a nuestro juicio, puede explicarse
+el hecho extraño de que aumente la fertilidad en las generaciones sucesivas de los híbridos artificialmente fecundados, en contraste con los que lo son espontáneamente, por
+haberse evitado el cruzamiento consanguíneo.
+Con respecto a la esterilidad de los híbridos cuyos elementos sexuales están imperfectamente desarrollados, el caso es un tanto diferente. Más de una vez nos hemos referido a
+
+una gran serie de hechos que demuestran que cuando se saca a los animales y a las plantas de sus condiciones naturales son en extremo susceptibles de serias afecciones en sus
+sistemas reproductivos. Lo cual, en verdad, es un gran obstáculo para la domesticidad de
+los animales, porque entre la esterilidad así provocada y la de los híbridos hay tantos puntos de semejanza que, en ambos casos, la esterilidad es independiente de la salubridad
+general, y va a menudo acompañada de exceso de tamaño o de gran exuberancia. En ambos casos ocurre la esterilidad en varios grados; en ambos, el elemento macho es el más
+susceptible de ser afectado, aunque algunas veces la hembra lo es más que el macho. En
+ambos, la tendencia acompaña hasta cierto punto la afinidad sistemática, porque grupos
+enteros de animales y plantas se hacen impotentes por las mismas condiciones no naturales, mientras que grupos enteros de especies tienden a producir híbridos estériles.
+Algunos autores han dado mucha importancia a la suposición de que solamente en los
+mestizos los descendientes no son intermedios en carácter, sino que se parecen mucho a
+uno de los padres; pero esto también ocurre algunas veces con los híbridos, aun cuando
+concedemos que con mucha menos frecuencia.
+Examinando los casos reunidos por nosotros, de animales cruzados que se parecen mucho a uno de los padres, las semejanzas están, al parecer, limitadas principalmente a caracteres casi monstruosos en su naturaleza, y que han aparecido de repente, como el alb inismo, melanismo, falta de rabo o de cuernos o mayor número de dedos en manos o pies,
+y no a aquellos caracteres que han sido lentamente adquiridos por medio de la selección.
+La tendencia al retroceso repentino hacia el carácter perfecto de uno de los dos padres
+sería también mucho más probable que ocurriera en los mestizos descendientes de variedades súbitamente producidas y semimonstruosas en carácter, que en los híbridos que
+descienden de especies lenta y naturalmente producidas. En suma, convenimos totalmente con el doctor Prósper Lucas, el cual, después de haber clasificado una enorme selección de hechos con respecto a los animales, llegó a la conclusión de que las leyes del parecido de la prole con sus padres son las mismas, aunque éstos se diferencien mucho o
+poco entre sí; más claro, que son las mismas, siendo los padres individuos de la misma
+variedad o de difer entes variedades o de especies distintas.
+Independientemente de la cuestión de esterilidad y fecundidad, parece haber en todos
+los demás conceptos semejanza general e inmediata en la descendencia de las especies y
+de las variedades cruzadas. Si miramos a las especies como creaciones especiales y a las
+variedades como productos de leyes secundarias, esta semejanza sería hecho asombroso,
+pero que armonizaría perfectamente con la opinión de que no hay distinción esencial entre especies y variedades.
+Los primeros cruzamientos entre formas lo suficientemente distintas como para ser clasificadas como especies y sus híbridos son generalmente estériles, pero no siempre. La
+esterilidad pasa por tantos grados y es a menudo tan pequeña, que los experimentadores
+más cuidadosos han llegado a conclusiones diametralmente opuestas al clasificar las fo rmas según esta prueba. La esterilidad es innatamente variable en individuos de la misma
+especie, así como eminentemente susceptible a la acción de condiciones favorables y desfavorables. El grado de esterilidad no es consecuencia rigurosa de la afinidad sistemática
+y está determinado por algunas leyes curiosas y complejas, siendo en general diferente,
+en los cruzamientos recíprocos entre dos mismas especies, y no teniendo siempre igual
+grado de intensidad en el primer cruzamiento y en los híbridos que de este derivan.
+
+De la misma manera en que al injertar árboles depende la aptitud de una especie o variedad para prender en otra que presente diferencias desconocidas en sus sistemas vegetativos, que generalmente son de naturaleza desconocida, es también mayor o menor la facilidad en los cruzamientos el que una especie se una a otra por efectos de diferencias
+desconocidas en sus sistemas reproductivos. No hay más razones para creer que las especies han sido dotadas especialmente con varios grados de esterilidad para impedir que se
+crucen y mezclen en la naturaleza, que las que hay para pensar que los árboles han sido
+dotados especialmente de varios grados un tanto análogos de dificultad para el injerto,
+dirigidos a impedir que se injerten por sí solos en nuestros bosques.
+La esterilidad de los primeros cruzamientos y de su progenie híbrida no ha sido adquirida por medio de la selección natural. En el caso de los primeros cruzamientos, parece
+depender de varias circunstancias, y algunas veces, en la mayor parte, de la temprana
+muerte del embrión. Tratándose de híbridos, depende aparentemente de que toda su organización ha sido perturbada por ser compuesto de dos formas distintas, estando su esterilidad íntimamente enlazada con la que tan frecuentemente afecta a las especies puras expuestas a condiciones nuevas y no naturales de vida.
+Quienquiera que explique estos últimos casos podrá explicar la esterilidad de los híbridos. Esta opinión t iene firme apoyo en cierto paralelismo de otra clase, a saber: primero,
+en que los cambios pequeños en las condiciones de vida aumentan el vigor y fertilidad de
+todos los seres orgánicos; y segundo, en que el cruzamiento de formas que han estado
+expuestas a condiciones de vida ligeramente diferentes o que han variado, favorece el tamaño, vigor y fecundidad de su descendencia. Los hechos acerca de la esterilidad de las
+uniones ilegítimas de las plantas dimórficas y trimórficas y de su ilegítima progenie
+hacen probable que exista algún lazo desconocido que conexione en todos los casos el
+grado de fertilidad de las primeras uniones con el de sus descendientes. La consideración
+de estos hechos sobre el dimorfismo y también la consideración de los resultados de los
+cruzamientos recíprocos, claramente llevan a la conclusión de que la causa primaria de la
+esterilidad de las especies cruzadas está reducida a diferencias en sus elementos sexuales,
+pero no sabemos por qué, en el caso de especies distintas, habrán sido aquellos más o
+menos modificados, conduciendo a su inferioridad mutua, aunque parece que esto está en
+estrecha relación con haber estado expuesta la especie, durante varios períodos de tiempo,
+a condiciones de vida próximamente uniformes.
+No es sorprendente que la dificultad al cruzar dos especies cualesquiera y la esterilidad
+de su descende ncia híbrida se correspondan en la mayor parte de los casos, aunque sea
+debido a causas distintas, porque ambas dependen de la cantidad de diferencia existente
+entre las especies que se cruzan. Tampoco es so rprendente que la facilidad de efectuar un
+primer cruzamiento, la fertilidad de los híbridos por él producidos y la aptitud de ser injertados juntos (aunque esta última aptitud depende evidentemente de circunstancias en
+extremo diferentes) corran todas hasta cierto punto parejas con la afinidad sistemática de
+las formas sujetas al experimento, porque la afinidad sistemática incluye parecidos de todas clases.
+Los primeros cruzamientos entre formas que son variedades reco nocidas, o bastante
+análogas para ser consideradas como variedades, así como sus descendientes mestizos,
+son fértiles casi siempre, pero no invariablemente, como tan a menudo se ha pretendido.
+Tampoco es sorprendente esta casi universal y perfecta fecundidad si se recuerda cuán
+
+expuestos estamos a argumentar en círculo vicioso con respecto a las variedades en estado de naturaleza, y si no olvidamos que el mayor número de variedades ha sido producido en la domesticidad por la selección de diferencias meramente externas, y que no han
+estado aquellas mucho tiempo expuestas a condiciones de vida uniformes. También debe
+recordarse especialmente que la domesticidad prolongada por mucho tiempo tiende a
+eliminar la esterilidad, y que es por lo tanto muy poco probable que provoque esta misma
+cualidad. Independientemente de la cuestión de fecundidad, en todos los demás conceptos
+hay un parecido generalmente grande entre los híbridos y los mestizos, en cuanto atañe a
+su variabilidad, en poder absorberse mutuamente por cruzamientos repetidos y en heredar
+caracteres de ambas formas madre. Finalmente, aunque seamos tan ignorantes respecto a
+la causa precisa de la esterilidad en los primeros cruzamientos y en los híbridos, como lo
+somos en cuanto a por qué los animales y las plantas sacados de sus condiciones naturales
+se hacen estériles, los hechos presentados no nos parecen opuestos a la creencia de que
+las especies existiesen primeramente como variedades.
+
+Índice
+Prólogo.................................................................................................................................2
+Introducción........................................................................................................................4
+Capítulo I La variación en estado doméstico.....................................................................6
+Capitulo II La variación en la naturaleza........................................................................16
+Capítulo III La lucha por la existencia............................................................................20
+Capítulo IV La selección natural o la supervivencia de los más aptos...........................23
+Capítulo V Leyes de la variación...................................................................................... 36
+Capítulo VI Dificultades de la teoría................................................................................38
+Capítulo VII Objeciones a la teoría de la selección natural ...........................................42
+Capítulo VIII Instinto.......................................................................................................47
+Capítulo IX Hibridismo ....................................................................................................50
+
+
