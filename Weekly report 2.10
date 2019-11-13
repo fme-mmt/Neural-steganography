@@ -39,3 +39,17 @@ RogerS & Gerard:
 We've been looking at the Markovify implementation and how it generates and choose the next possible words. 
 We have been wondering about how to implement arithmetic coding in Markovify and how the program will encrypt and decrypt the text we want.
 
+Adrián, Gosia and Belén: 
+We have prepared our own text processor in order to make a corpus.
+
+13/11/2019:
+Adrián, Gosia and Belén: 
+We have downloeaded more than 80 books, then we transformed the pdfs to .txt and we have cleaned all the.txt so they only contain normal sentences.
+Then we have merged all the books into one .txt with more than 500.000 lines (that is going to be our corpus).
+
+RogerS and Gerard:
+We have been working on how to programm our own aritmetic coding.
+
+
+
+
