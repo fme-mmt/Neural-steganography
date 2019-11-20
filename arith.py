@@ -1,6 +1,8 @@
 import markovify
+from numpy import cumsum
+from fractions import Fraction
 
-text = u"Example phrase. This is another example sentence. And another one"
+text = "Example phrase. This is another example sentence. And another one"
 text_model = markovify.Text(text)
 chain = text_model.chain
 
@@ -23,20 +25,41 @@ def find_fraction(input_start, input_end):
         output_numerator = 1 + ((input_numerator * output_denominator) // input_denominator)
         output_fraction = Fraction(output_numerator, output_denominator)
         output_denominator *= 2
+    
 
     return output_fraction
 
 
     
 #Suposem donat una taula de frequencies (FALTA FER)
-freqTab = [0]*256
+freqTab = [1]*256
+
+
+def get_next_character(f):
+    """Reads one character from the given textfile"""
+    c = f.read(1)
+    while c: 
+        yield c
+        c = f.read(1)
+        
+        
+with open("corpus.txt") as f:
+    count = 0
+    for c in get_next_character(f):
+        count += 1
+        charASCII = ord(c)
+        freqTab[charASCII] += 1
+
 
 #S'ha de crear una taula de frequencies acumulades
 sumFreq = cumsum(freqTab)
-cumFreq = sumFreq / sumFreq[-1];
+cumFreq = [0]*257
+for i in range(1, 257):
+    cumFreq[i] = float(sumFreq[i - 1]) / float(sumFreq[-1])
+
 
 #Suposem que tenim un input 
-entrada = "PATATA"
+entrada = "havia una vez un cerdito , muy bonito que viajaba todo el dia por  el valle y un dia se encontro "
 interval_inf = 0
 interval_sup = 1
 length = len(entrada)
@@ -45,12 +68,19 @@ for i in range(length):
     lengthInterval = interval_sup - interval_inf
     char = entrada[i]
     charASCII = ord(char)
-    # Cal mirar ASCII, si te en compte el 0, perque maybe cal mirar la posicio charASCII -1 
     interval_inf = cumFreq[charASCII] * lengthInterval
     interval_sup = cumFreq[charASCII + 1] * lengthInterval
 
+print(interval_inf)
+print(interval_sup)
+    
+
+
+
+
 valor_entrada = find_fraction(interval_inf, interval_sup)
 
+print(valor_entrada)
 
 chain.walk((BEGIN, 'This'))
 # Gives: ['is', 'another', 'example', 'sentence.']
