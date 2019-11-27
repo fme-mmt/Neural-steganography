@@ -3,7 +3,7 @@ import numpy as np
 from markovify.chain import BEGIN,END
 
 def carrega():
-    with open('corpus.txt', encoding='utf8') as f:
+    with open('corpus.txt', encoding='utf8') as f: #indicar be on esta el corpus
         text = f.read()
     return markovify.Text(text).chain
 chain=carrega()
