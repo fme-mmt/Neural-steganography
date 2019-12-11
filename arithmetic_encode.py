@@ -1,6 +1,8 @@
 from numpy import cumsum
 from collections import defaultdict
+from mpmath import mpf, mp
 
+mp.dps = 50
 
 
 def get_next_character(f):
@@ -11,11 +13,11 @@ def get_next_character(f):
         c = f.read(1)
 
 def calculate_cum_freq(freqTab):
-    fqa =cumsum(list(freqTab.values()))
+    fqa = cumsum(list(freqTab.values()))
     length = len(freqTab) + 1
     cumFreq = [0] * length
     for i in range(1, length):
-        cumFreq[i] = float(fqa[i - 1]) / float(fqa[-1])
+        cumFreq[i] = mpf(float(fqa[i - 1]) / float(fqa[-1]))
     cFreq = (list(freqTab.keys()), cumFreq)
     return cFreq
     
@@ -49,10 +51,10 @@ def arithmetic_encode (word, fixed):
     print(' ')
     for i in range(length):
         char = word[i]
-        lengthInterval = interval_sup - interval_inf
+        lengthInterval = mpf(interval_sup - interval_inf)
         j = keys.index(char)
-        interval_sup = cumFreq[j + 1]*lengthInterval + interval_inf
-        interval_inf = cumFreq[j]*lengthInterval + interval_inf
+        interval_sup = mpf(cumFreq[j + 1]*lengthInterval + interval_inf)
+        interval_inf = mpf(cumFreq[j]*lengthInterval + interval_inf)
         print(interval_inf)
         print(interval_sup)
         print(' ')
@@ -60,7 +62,7 @@ def arithmetic_encode (word, fixed):
             freqTab[char] += 1
             keys, cumFreq = calculate_cum_freq(freqTab)
 
-    return (interval_inf + interval_sup)/2
+    return mpf((interval_inf + interval_sup)/2)
 
 
 
@@ -94,7 +96,7 @@ def arithmetic_decode(number, fixed):
     s = ''
     trobat = False
     count = 1
-    while (not trobat and count < 9):
+    while (not trobat and count < 25):
         count += 1
         i = 0
         while (number > (interval_inf + lengthInterval * cumFreq[i]) and i < len(keys) - 1): i += 1
@@ -111,9 +113,10 @@ def arithmetic_decode(number, fixed):
     return s;
 	
 
-secret_message = "CaSaLS23!"
+secret_message = "CaYXSSaLS235743!"
 n=arithmetic_encode(secret_message,False) 
 print(n)
+
 
 arithmetic_decode(n, False)
 
